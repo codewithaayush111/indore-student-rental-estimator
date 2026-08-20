@@ -2,11 +2,9 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import os
 
 # Load model
-import os
-import joblib
-
 MODEL_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     "student_rent_model.pkl"
