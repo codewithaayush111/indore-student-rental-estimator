@@ -4,7 +4,15 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load("/content/student_rent_model.pkl")
+import os
+import joblib
+
+MODEL_PATH = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    "student_rent_model.pkl"
+)
+
+model = joblib.load(MODEL_PATH)
 
 st.set_page_config(
     page_title="Indore Student Rent Estimator",
