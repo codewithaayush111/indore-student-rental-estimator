@@ -137,6 +137,7 @@ if st.button("🔍 Estimate Fair Rent", use_container_width=True):
         st.write("This property is significantly above the estimated fair rent.")
 
     elif difference_percent < -10:
+        # deployed version
         st.success("🟢 GOOD DEAL")
         st.write("This property is below the estimated fair rent.")
 
