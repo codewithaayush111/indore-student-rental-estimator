@@ -1,0 +1,751 @@
+listing_id,location,property_type,rent,area_sqft,bhk,sharing,bathrooms,furnishing,parking,wifi,food,attached_bathroom,distance_from_college_km,security_deposit,data_status
+1,Rau,2 BHK,9300,856,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,2.2,7000,Synthetic starter data
+2,Sukhliya,2 BHK,12100,1135,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,2.0,17000,Synthetic starter data
+3,Vijay Nagar,Single Room,8900,307,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,5.9,10000,Synthetic starter data
+4,Palasia,PG,4400,103,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,1.0,5000,Synthetic starter data
+5,Vijay Nagar,2 BHK,21100,1311,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,5.8,32500,Synthetic starter data
+6,Vijay Nagar,PG,7900,129,0,Single,1,Semi-Furnished,No,Yes,No,No,3.8,7000,Synthetic starter data
+7,Rau,PG,4600,98,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.5,8000,Synthetic starter data
+8,Vijay Nagar,2 BHK,14800,782,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,5.4,19000,Synthetic starter data
+9,Vijay Nagar,1 BHK,10800,706,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,4.4,8500,Synthetic starter data
+10,LIG Colony,Single Room,5300,195,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,1.5,10500,Synthetic starter data
+11,Geeta Bhawan,1 BHK,11300,733,1,Whole Property,1,Unfurnished,No,Yes,No,No,4.9,8500,Synthetic starter data
+12,Scheme 54,2 BHK,18100,980,2,Whole Property,1,Unfurnished,No,Yes,No,Yes,2.0,12500,Synthetic starter data
+13,Bengali Square,Single Room,7400,324,0,Single,1,Fully Furnished,Yes,No,No,Yes,3.3,11500,Synthetic starter data
+14,Bicholi Mardana,PG,3700,202,0,Double,1,Fully Furnished,No,Yes,No,Yes,0.5,4000,Synthetic starter data
+15,Geeta Bhawan,1 BHK,8700,502,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,4.6,8000,Synthetic starter data
+16,Geeta Bhawan,Shared Room,4200,359,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,5.2,3500,Synthetic starter data
+17,Bhawarkua,1 BHK,9700,596,1,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,3.3,15500,Synthetic starter data
+18,Bhawarkua,Shared Room,3400,382,0,Double,1,Fully Furnished,No,Yes,No,Yes,1.7,2000,Synthetic starter data
+19,LIG Colony,2 BHK,12500,758,2,Whole Property,2,Semi-Furnished,No,No,No,Yes,5.4,20500,Synthetic starter data
+20,Rau,2 BHK,11800,902,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,1.6,15500,Synthetic starter data
+21,Bhawarkua,Single Room,5200,247,0,Single,1,Fully Furnished,No,Yes,No,Yes,3.4,7500,Synthetic starter data
+22,Geeta Bhawan,2 BHK,18400,1312,2,Whole Property,2,Unfurnished,No,Yes,No,Yes,3.1,13500,Synthetic starter data
+23,Sukhliya,Single Room,4700,134,0,Single,1,Semi-Furnished,Yes,No,No,Yes,1.9,8000,Synthetic starter data
+24,Bengali Square,2 BHK,11000,865,2,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,3.5,26000,Synthetic starter data
+25,Sukhliya,Shared Room,2500,270,0,Double,1,Fully Furnished,Yes,No,No,No,4.3,4000,Synthetic starter data
+26,Scheme 54,1 BHK,12000,858,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,1.4,8000,Synthetic starter data
+27,Palasia,PG,3900,232,0,Triple,1,Fully Furnished,Yes,Yes,Yes,Yes,3.4,3500,Synthetic starter data
+28,Vijay Nagar,1 BHK,10900,503,1,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,5.8,13000,Synthetic starter data
+29,Scheme 54,PG,4800,188,0,Double,1,Fully Furnished,No,No,No,Yes,4.8,4500,Synthetic starter data
+30,Vijay Nagar,2 BHK,16300,876,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,3.4,26000,Synthetic starter data
+31,Sukhliya,PG,2900,158,0,Triple,1,Fully Furnished,Yes,Yes,Yes,No,0.4,2000,Synthetic starter data
+32,Palasia,PG,5600,128,0,Double,1,Fully Furnished,Yes,Yes,Yes,No,5.4,4500,Synthetic starter data
+33,Vijay Nagar,2 BHK,20200,1357,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,0.5,27500,Synthetic starter data
+34,Rau,Shared Room,2700,298,0,Double,1,Semi-Furnished,No,No,No,Yes,1.5,2500,Synthetic starter data
+35,Bhawarkua,Single Room,6600,342,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.2,6500,Synthetic starter data
+36,Sukhliya,Single Room,3900,174,0,Single,1,Unfurnished,No,Yes,No,Yes,1.3,7500,Synthetic starter data
+37,Scheme 54,2 BHK,18000,1297,2,Whole Property,2,Semi-Furnished,Yes,No,No,No,2.7,30500,Synthetic starter data
+38,LIG Colony,Shared Room,2500,306,0,Triple,1,Fully Furnished,Yes,No,No,No,2.3,5000,Synthetic starter data
+39,Sukhliya,Single Room,6200,349,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.1,9500,Synthetic starter data
+40,Vijay Nagar,Single Room,8600,266,0,Single,1,Unfurnished,Yes,Yes,No,Yes,4.3,16000,Synthetic starter data
+41,Sukhliya,1 BHK,10000,850,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,5.0,14000,Synthetic starter data
+42,Bicholi Mardana,2 BHK,10800,881,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,Yes,1.7,11500,Synthetic starter data
+43,Palasia,PG,4400,215,0,Double,1,Fully Furnished,Yes,Yes,No,No,3.6,10000,Synthetic starter data
+44,LIG Colony,PG,2800,133,0,Triple,1,Semi-Furnished,Yes,Yes,Yes,No,5.5,2500,Synthetic starter data
+45,Sukhliya,PG,6200,138,0,Single,1,Fully Furnished,Yes,Yes,No,No,0.6,4500,Synthetic starter data
+46,Bhawarkua,PG,3700,149,0,Double,1,Fully Furnished,Yes,No,No,Yes,3.4,4000,Synthetic starter data
+47,Scheme 54,1 BHK,11600,862,1,Whole Property,1,Fully Furnished,Yes,No,No,Yes,3.6,25000,Synthetic starter data
+48,Palasia,1 BHK,11300,595,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,5.8,19500,Synthetic starter data
+49,Scheme 54,Single Room,7200,198,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.3,11500,Synthetic starter data
+50,Sukhliya,1 BHK,7800,532,1,Whole Property,1,Fully Furnished,Yes,Yes,No,No,3.8,6000,Synthetic starter data
+51,Sukhliya,Shared Room,2800,191,0,Double,1,Fully Furnished,Yes,Yes,No,No,2.1,4500,Synthetic starter data
+52,Palasia,Single Room,9500,328,0,Single,1,Semi-Furnished,No,Yes,No,Yes,0.4,8500,Synthetic starter data
+53,Geeta Bhawan,Single Room,7600,190,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.5,6000,Synthetic starter data
+54,Scheme 54,Single Room,7700,244,0,Single,1,Semi-Furnished,Yes,Yes,No,No,3.1,7500,Synthetic starter data
+55,Geeta Bhawan,PG,8200,240,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.3,12500,Synthetic starter data
+56,Bhawarkua,PG,5700,94,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.3,11000,Synthetic starter data
+57,Vijay Nagar,Single Room,7900,254,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.3,15000,Synthetic starter data
+58,Scheme 54,1 BHK,11700,702,1,Whole Property,1,Unfurnished,Yes,No,No,Yes,4.6,15500,Synthetic starter data
+59,Sukhliya,PG,4700,204,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.9,6500,Synthetic starter data
+60,Rau,PG,2900,175,0,Double,1,Fully Furnished,Yes,No,No,Yes,4.8,4000,Synthetic starter data
+61,Vijay Nagar,Shared Room,4200,383,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.4,6000,Synthetic starter data
+62,Rau,2 BHK,9400,1186,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,1.9,8500,Synthetic starter data
+63,LIG Colony,PG,4700,129,0,Double,1,Fully Furnished,No,No,No,No,0.3,8000,Synthetic starter data
+64,Scheme 54,1 BHK,11500,652,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,2.1,13000,Synthetic starter data
+65,Bengali Square,PG,7800,179,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,3.7,7000,Synthetic starter data
+66,Bengali Square,PG,3600,173,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.6,4500,Synthetic starter data
+67,LIG Colony,1 BHK,9600,685,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,2.5,17000,Synthetic starter data
+68,Sukhliya,1 BHK,8700,740,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,2.3,15000,Synthetic starter data
+69,Palasia,1 BHK,10800,744,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,2.8,17000,Synthetic starter data
+70,Bengali Square,PG,5500,128,0,Single,1,Fully Furnished,No,Yes,Yes,Yes,4.8,9500,Synthetic starter data
+71,Bengali Square,2 BHK,18100,1169,2,Whole Property,2,Unfurnished,No,Yes,No,Yes,1.5,24500,Synthetic starter data
+72,Vijay Nagar,Shared Room,4200,335,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,2.6,7000,Synthetic starter data
+73,Vijay Nagar,Shared Room,4500,188,0,Double,1,Semi-Furnished,No,Yes,No,Yes,2.7,4000,Synthetic starter data
+74,Vijay Nagar,PG,8000,193,0,Single,1,Semi-Furnished,No,Yes,No,No,4.3,5500,Synthetic starter data
+75,Bengali Square,Shared Room,3600,148,0,Double,1,Fully Furnished,No,No,No,Yes,1.6,2500,Synthetic starter data
+76,Rau,Single Room,4400,214,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.9,2500,Synthetic starter data
+77,Rau,Single Room,4200,124,0,Single,1,Unfurnished,No,Yes,No,Yes,5.5,5500,Synthetic starter data
+78,Bhawarkua,PG,3400,118,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.8,3000,Synthetic starter data
+79,Palasia,PG,3400,138,0,Triple,1,Fully Furnished,Yes,Yes,Yes,No,2.3,5000,Synthetic starter data
+80,Scheme 54,Shared Room,4600,294,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,4.7,2500,Synthetic starter data
+81,Rau,PG,3500,99,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,4.4,5000,Synthetic starter data
+82,Vijay Nagar,PG,4800,156,0,Double,1,Semi-Furnished,Yes,Yes,No,No,3.7,9000,Synthetic starter data
+83,Bicholi Mardana,2 BHK,11900,931,2,Whole Property,1,Fully Furnished,No,Yes,No,Yes,1.5,6000,Synthetic starter data
+84,Palasia,2 BHK,16200,1272,2,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,2.6,24500,Synthetic starter data
+85,Palasia,Single Room,8500,343,0,Single,1,Unfurnished,No,Yes,No,Yes,5.9,10500,Synthetic starter data
+86,Bengali Square,1 BHK,10200,899,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,5.9,15000,Synthetic starter data
+87,Bhawarkua,PG,5300,235,0,Single,1,Fully Furnished,No,Yes,Yes,Yes,3.1,9000,Synthetic starter data
+88,Sukhliya,PG,3200,142,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,0.6,2500,Synthetic starter data
+89,Sukhliya,PG,3700,115,0,Double,1,Fully Furnished,No,Yes,No,No,3.8,7000,Synthetic starter data
+90,Vijay Nagar,Single Room,8900,349,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.1,12500,Synthetic starter data
+91,Rau,1 BHK,6900,522,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,2.8,5500,Synthetic starter data
+92,Sukhliya,PG,3700,108,0,Double,1,Fully Furnished,No,No,No,Yes,3.3,2000,Synthetic starter data
+93,Bicholi Mardana,1 BHK,7700,598,1,Whole Property,1,Unfurnished,No,Yes,No,No,5.4,11500,Synthetic starter data
+94,Sukhliya,PG,3600,234,0,Double,1,Fully Furnished,Yes,No,Yes,Yes,2.0,6500,Synthetic starter data
+95,Bicholi Mardana,2 BHK,12400,1343,2,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,4.0,14000,Synthetic starter data
+96,LIG Colony,Shared Room,3900,158,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,3.9,5500,Synthetic starter data
+97,Geeta Bhawan,PG,6500,123,0,Single,1,Fully Furnished,No,Yes,No,No,6.0,7000,Synthetic starter data
+98,Palasia,Shared Room,3700,358,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,4.5,1500,Synthetic starter data
+99,Palasia,Single Room,9800,341,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,5.9,9500,Synthetic starter data
+100,Bhawarkua,2 BHK,10800,810,2,Whole Property,2,Semi-Furnished,No,No,No,Yes,5.5,24000,Synthetic starter data
+101,Sukhliya,PG,3300,182,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,1.6,2500,Synthetic starter data
+102,Vijay Nagar,2 BHK,21600,1270,2,Whole Property,2,Unfurnished,Yes,Yes,No,No,4.3,14000,Synthetic starter data
+103,Scheme 54,PG,7900,178,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.0,13500,Synthetic starter data
+104,Bengali Square,PG,5000,127,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,4.2,3000,Synthetic starter data
+105,LIG Colony,Single Room,6500,323,0,Single,1,Semi-Furnished,No,Yes,No,Yes,3.4,11500,Synthetic starter data
+106,LIG Colony,PG,6700,137,0,Single,1,Fully Furnished,No,Yes,No,Yes,4.6,4000,Synthetic starter data
+107,LIG Colony,2 BHK,11300,780,2,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,5.0,20500,Synthetic starter data
+108,Bhawarkua,Shared Room,2500,136,0,Triple,1,Fully Furnished,Yes,Yes,No,No,1.0,2500,Synthetic starter data
+109,Vijay Nagar,Single Room,8600,325,0,Single,1,Fully Furnished,No,No,No,Yes,5.6,13500,Synthetic starter data
+110,Sukhliya,PG,3400,111,0,Double,1,Fully Furnished,Yes,No,No,No,4.6,2500,Synthetic starter data
+111,Sukhliya,PG,5700,223,0,Single,1,Fully Furnished,No,Yes,Yes,Yes,3.0,9500,Synthetic starter data
+112,Rau,1 BHK,7200,624,1,Whole Property,1,Semi-Furnished,No,Yes,No,No,1.2,8000,Synthetic starter data
+113,Bicholi Mardana,Single Room,5200,286,0,Single,1,Unfurnished,No,Yes,No,Yes,2.1,9000,Synthetic starter data
+114,LIG Colony,1 BHK,9900,723,1,Whole Property,1,Unfurnished,Yes,No,No,Yes,5.3,15500,Synthetic starter data
+115,Scheme 54,1 BHK,10400,648,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,3.8,19500,Synthetic starter data
+116,Vijay Nagar,1 BHK,12200,677,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,2.2,17000,Synthetic starter data
+117,Palasia,2 BHK,16900,821,2,Whole Property,2,Semi-Furnished,Yes,No,No,No,4.0,25500,Synthetic starter data
+118,Vijay Nagar,PG,5900,169,0,Double,1,Fully Furnished,Yes,Yes,No,No,0.7,7000,Synthetic starter data
+119,LIG Colony,PG,3200,243,0,Triple,1,Fully Furnished,Yes,Yes,No,No,1.4,2500,Synthetic starter data
+120,Sukhliya,PG,2500,192,0,Triple,1,Fully Furnished,Yes,No,No,Yes,4.8,4000,Synthetic starter data
+121,Palasia,Shared Room,3800,141,0,Double,1,Fully Furnished,No,Yes,No,No,0.8,2500,Synthetic starter data
+122,LIG Colony,PG,2900,189,0,Triple,1,Fully Furnished,No,Yes,Yes,Yes,0.4,4500,Synthetic starter data
+123,Rau,Shared Room,2500,321,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.1,2000,Synthetic starter data
+124,Scheme 54,Shared Room,3400,139,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,0.5,3500,Synthetic starter data
+125,Geeta Bhawan,Shared Room,3100,362,0,Triple,1,Fully Furnished,No,Yes,No,Yes,3.9,4500,Synthetic starter data
+126,LIG Colony,PG,5300,167,0,Single,1,Fully Furnished,Yes,Yes,Yes,Yes,2.6,8000,Synthetic starter data
+127,Bengali Square,Shared Room,3000,264,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.2,6000,Synthetic starter data
+128,Vijay Nagar,PG,5300,99,0,Double,1,Fully Furnished,Yes,Yes,No,No,1.7,5500,Synthetic starter data
+129,Rau,Shared Room,2500,323,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.2,2000,Synthetic starter data
+130,Vijay Nagar,Shared Room,3200,120,0,Triple,1,Fully Furnished,Yes,No,No,Yes,3.2,2000,Synthetic starter data
+131,Vijay Nagar,2 BHK,17900,965,2,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,1.7,22000,Synthetic starter data
+132,Vijay Nagar,PG,6200,213,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.2,6000,Synthetic starter data
+133,Sukhliya,1 BHK,8100,667,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,5.2,13000,Synthetic starter data
+134,LIG Colony,Shared Room,2500,261,0,Triple,1,Fully Furnished,No,Yes,No,Yes,6.0,1500,Synthetic starter data
+135,Bicholi Mardana,Single Room,5500,275,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.0,9000,Synthetic starter data
+136,LIG Colony,2 BHK,13900,1028,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,Yes,2.2,13500,Synthetic starter data
+137,Palasia,1 BHK,13000,765,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,0.4,17000,Synthetic starter data
+138,Sukhliya,Shared Room,2500,236,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,1.7,3500,Synthetic starter data
+139,Palasia,Shared Room,3000,140,0,Triple,1,Fully Furnished,Yes,Yes,No,No,1.7,6000,Synthetic starter data
+140,Palasia,PG,7300,116,0,Single,1,Semi-Furnished,Yes,Yes,Yes,Yes,2.6,14500,Synthetic starter data
+141,Scheme 54,Shared Room,4000,227,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,3.5,3500,Synthetic starter data
+142,Scheme 54,Shared Room,4200,166,0,Double,1,Semi-Furnished,No,Yes,No,No,1.6,3500,Synthetic starter data
+143,Geeta Bhawan,Single Room,7000,224,0,Single,1,Unfurnished,No,Yes,No,Yes,2.0,10500,Synthetic starter data
+144,Scheme 54,1 BHK,14700,888,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,1.5,8500,Synthetic starter data
+145,Vijay Nagar,Shared Room,4900,279,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.1,4000,Synthetic starter data
+146,Palasia,Single Room,8500,268,0,Single,1,Semi-Furnished,No,Yes,No,Yes,4.4,10500,Synthetic starter data
+147,Bhawarkua,PG,5500,186,0,Single,1,Fully Furnished,Yes,Yes,Yes,Yes,2.8,10000,Synthetic starter data
+148,Geeta Bhawan,PG,4800,156,0,Double,1,Fully Furnished,Yes,Yes,No,No,4.1,6500,Synthetic starter data
+149,Sukhliya,Single Room,3600,107,0,Single,1,Semi-Furnished,Yes,No,No,Yes,4.6,3000,Synthetic starter data
+150,Scheme 54,PG,4200,225,0,Double,1,Semi-Furnished,No,Yes,Yes,Yes,6.0,10000,Synthetic starter data
+151,Bengali Square,1 BHK,9400,598,1,Whole Property,1,Fully Furnished,Yes,Yes,No,No,3.8,12000,Synthetic starter data
+152,Rau,Single Room,3700,101,0,Single,1,Unfurnished,Yes,Yes,No,Yes,2.8,5500,Synthetic starter data
+153,Bengali Square,2 BHK,14600,892,2,Whole Property,2,Unfurnished,Yes,No,No,Yes,5.0,15000,Synthetic starter data
+154,Rau,PG,3400,155,0,Double,1,Fully Furnished,Yes,No,No,No,3.6,4000,Synthetic starter data
+155,Rau,Shared Room,2500,357,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,2.4,1500,Synthetic starter data
+156,Bicholi Mardana,Single Room,5600,240,0,Single,1,Unfurnished,No,Yes,No,No,0.3,3000,Synthetic starter data
+157,Geeta Bhawan,Single Room,5600,130,0,Single,1,Fully Furnished,No,Yes,No,Yes,6.0,3500,Synthetic starter data
+158,Vijay Nagar,Single Room,7300,214,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.6,6500,Synthetic starter data
+159,Bhawarkua,PG,4200,152,0,Double,1,Semi-Furnished,Yes,Yes,Yes,Yes,3.0,3000,Synthetic starter data
+160,Bhawarkua,PG,4000,168,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.1,6000,Synthetic starter data
+161,Bhawarkua,PG,4500,228,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.2,9500,Synthetic starter data
+162,Palasia,Single Room,6100,120,0,Single,1,Unfurnished,Yes,Yes,No,Yes,5.7,11000,Synthetic starter data
+163,Vijay Nagar,PG,4200,110,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,5.4,5000,Synthetic starter data
+164,Vijay Nagar,PG,5500,218,0,Double,1,Fully Furnished,Yes,Yes,No,No,2.3,5000,Synthetic starter data
+165,Rau,1 BHK,7500,840,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,5.0,5000,Synthetic starter data
+166,Bengali Square,2 BHK,16600,1397,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,3.8,28000,Synthetic starter data
+167,Geeta Bhawan,Shared Room,3900,385,0,Double,1,Semi-Furnished,Yes,No,No,Yes,3.6,6000,Synthetic starter data
+168,Vijay Nagar,Single Room,9000,267,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,2.5,6000,Synthetic starter data
+169,Bhawarkua,2 BHK,12400,921,2,Whole Property,2,Fully Furnished,No,Yes,No,No,5.2,22500,Synthetic starter data
+170,Sukhliya,Single Room,5200,235,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,2.1,8500,Synthetic starter data
+171,Bhawarkua,Shared Room,2600,377,0,Triple,1,Fully Furnished,No,Yes,No,Yes,3.2,4500,Synthetic starter data
+172,Geeta Bhawan,Shared Room,4300,138,0,Double,1,Fully Furnished,Yes,Yes,No,No,2.8,2500,Synthetic starter data
+173,Bengali Square,1 BHK,13100,813,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,4.9,9000,Synthetic starter data
+174,Geeta Bhawan,PG,4900,102,0,Double,1,Fully Furnished,Yes,No,No,No,0.4,7500,Synthetic starter data
+175,Sukhliya,Shared Room,2500,342,0,Triple,1,Fully Furnished,No,No,No,Yes,2.9,3500,Synthetic starter data
+176,Palasia,Single Room,9200,331,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.5,9500,Synthetic starter data
+177,LIG Colony,Shared Room,2700,348,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,4.2,4000,Synthetic starter data
+178,Bengali Square,PG,6100,198,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.4,4500,Synthetic starter data
+179,Sukhliya,PG,3400,202,0,Double,1,Fully Furnished,No,No,No,Yes,2.7,5000,Synthetic starter data
+180,Palasia,1 BHK,10800,524,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,5.9,8000,Synthetic starter data
+181,Sukhliya,Shared Room,2600,317,0,Double,1,Fully Furnished,Yes,No,No,Yes,2.7,5000,Synthetic starter data
+182,Scheme 54,Single Room,6400,104,0,Single,1,Semi-Furnished,No,Yes,No,No,5.5,10500,Synthetic starter data
+183,Vijay Nagar,PG,7100,197,0,Single,1,Fully Furnished,No,Yes,No,Yes,0.6,7000,Synthetic starter data
+184,LIG Colony,PG,5200,195,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,3.8,7500,Synthetic starter data
+185,Rau,Single Room,4400,318,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.8,7000,Synthetic starter data
+186,Sukhliya,2 BHK,10000,831,2,Whole Property,2,Fully Furnished,Yes,Yes,No,Yes,5.7,20500,Synthetic starter data
+187,Bhawarkua,PG,4100,216,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.2,6500,Synthetic starter data
+188,Bengali Square,PG,4300,154,0,Double,1,Fully Furnished,Yes,Yes,Yes,Yes,5.2,5500,Synthetic starter data
+189,Sukhliya,Single Room,5300,338,0,Single,1,Semi-Furnished,No,Yes,No,Yes,4.8,4500,Synthetic starter data
+190,Rau,1 BHK,6900,663,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,1.8,14000,Synthetic starter data
+191,Bengali Square,1 BHK,11600,818,1,Whole Property,1,Fully Furnished,Yes,Yes,No,No,3.4,14000,Synthetic starter data
+192,Scheme 54,Single Room,7000,246,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.3,12500,Synthetic starter data
+193,Bhawarkua,Single Room,6300,236,0,Single,1,Fully Furnished,No,Yes,No,Yes,4.3,10000,Synthetic starter data
+194,LIG Colony,PG,2900,250,0,Triple,1,Fully Furnished,Yes,Yes,No,No,2.1,5000,Synthetic starter data
+195,Bicholi Mardana,1 BHK,7000,586,1,Whole Property,1,Unfurnished,Yes,No,No,Yes,5.9,12000,Synthetic starter data
+196,LIG Colony,Single Room,6800,346,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.0,5500,Synthetic starter data
+197,Rau,2 BHK,9000,1225,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,3.0,20000,Synthetic starter data
+198,Bengali Square,1 BHK,10000,735,1,Whole Property,1,Fully Furnished,No,No,No,Yes,1.7,7500,Synthetic starter data
+199,Rau,Single Room,4000,157,0,Single,1,Semi-Furnished,Yes,Yes,No,No,4.9,7500,Synthetic starter data
+200,Rau,PG,3300,237,0,Double,1,Fully Furnished,No,Yes,No,Yes,3.2,3000,Synthetic starter data
+201,Bhawarkua,PG,3900,135,0,Double,1,Semi-Furnished,No,Yes,No,Yes,5.4,6000,Synthetic starter data
+202,Rau,PG,2900,124,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,0.5,6500,Synthetic starter data
+203,Vijay Nagar,1 BHK,12300,559,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,5.8,18000,Synthetic starter data
+204,Bhawarkua,2 BHK,13100,1147,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,3.5,13000,Synthetic starter data
+205,Scheme 54,PG,8000,167,0,Single,1,Fully Furnished,Yes,No,No,Yes,3.7,13500,Synthetic starter data
+206,Vijay Nagar,Shared Room,3100,169,0,Triple,1,Fully Furnished,No,Yes,No,Yes,3.1,5500,Synthetic starter data
+207,Bengali Square,PG,3400,154,0,Triple,1,Fully Furnished,No,Yes,No,Yes,1.1,3500,Synthetic starter data
+208,Bicholi Mardana,Single Room,5900,348,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,2.5,7500,Synthetic starter data
+209,Geeta Bhawan,2 BHK,15800,911,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,No,0.3,8000,Synthetic starter data
+210,Bhawarkua,Single Room,6400,284,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,1.9,5000,Synthetic starter data
+211,Bengali Square,PG,6400,225,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.2,6000,Synthetic starter data
+212,Vijay Nagar,Shared Room,4500,178,0,Double,1,Fully Furnished,No,Yes,No,Yes,6.0,3000,Synthetic starter data
+213,Bhawarkua,Single Room,6000,207,0,Single,1,Semi-Furnished,No,Yes,No,Yes,4.1,5500,Synthetic starter data
+214,Vijay Nagar,1 BHK,14600,880,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,2.5,16500,Synthetic starter data
+215,Rau,PG,3300,173,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,4.0,5000,Synthetic starter data
+216,Bengali Square,PG,7100,128,0,Single,1,Semi-Furnished,No,Yes,No,Yes,3.3,4500,Synthetic starter data
+217,Vijay Nagar,Single Room,9200,262,0,Single,1,Fully Furnished,Yes,Yes,No,No,4.9,6500,Synthetic starter data
+218,Vijay Nagar,Single Room,7400,206,0,Single,1,Fully Furnished,No,Yes,No,Yes,4.8,9000,Synthetic starter data
+219,Scheme 54,1 BHK,11100,605,1,Whole Property,1,Semi-Furnished,No,Yes,No,No,0.4,12000,Synthetic starter data
+220,Bengali Square,Shared Room,3400,126,0,Double,1,Fully Furnished,No,Yes,No,Yes,0.4,5000,Synthetic starter data
+221,Geeta Bhawan,Single Room,8700,322,0,Single,1,Semi-Furnished,No,Yes,No,No,3.3,13500,Synthetic starter data
+222,Vijay Nagar,PG,5100,247,0,Triple,1,Fully Furnished,Yes,No,Yes,Yes,0.5,4500,Synthetic starter data
+223,Bhawarkua,PG,4100,232,0,Double,1,Fully Furnished,Yes,No,Yes,Yes,3.0,4500,Synthetic starter data
+224,Vijay Nagar,Shared Room,4300,228,0,Double,1,Semi-Furnished,No,No,No,Yes,3.3,3000,Synthetic starter data
+225,Bhawarkua,1 BHK,10300,836,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,2.3,9000,Synthetic starter data
+226,Rau,Shared Room,2600,230,0,Double,1,Semi-Furnished,Yes,Yes,No,No,2.0,2500,Synthetic starter data
+227,Scheme 54,Single Room,8600,330,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,1.6,16500,Synthetic starter data
+228,Bengali Square,2 BHK,16100,1144,2,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,5.8,29500,Synthetic starter data
+229,Bengali Square,PG,5700,159,0,Double,1,Fully Furnished,Yes,Yes,Yes,No,2.5,5500,Synthetic starter data
+230,LIG Colony,2 BHK,11500,831,2,Whole Property,2,Semi-Furnished,No,Yes,No,Yes,6.0,7000,Synthetic starter data
+231,Vijay Nagar,Shared Room,5100,266,0,Double,1,Fully Furnished,Yes,Yes,No,No,1.6,6500,Synthetic starter data
+232,Geeta Bhawan,1 BHK,10800,618,1,Whole Property,1,Fully Furnished,Yes,No,No,Yes,6.0,15500,Synthetic starter data
+233,Scheme 54,Single Room,7800,234,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,0.3,14000,Synthetic starter data
+234,LIG Colony,1 BHK,9200,640,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,2.6,5500,Synthetic starter data
+235,Rau,PG,2500,123,0,Triple,1,Fully Furnished,Yes,No,No,Yes,5.1,2000,Synthetic starter data
+236,Sukhliya,Shared Room,2700,334,0,Double,1,Semi-Furnished,Yes,No,No,Yes,3.0,2500,Synthetic starter data
+237,Geeta Bhawan,2 BHK,17400,1282,2,Whole Property,1,Fully Furnished,No,Yes,No,Yes,5.2,20000,Synthetic starter data
+238,Geeta Bhawan,Shared Room,4100,172,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,4.7,3500,Synthetic starter data
+239,Bengali Square,Single Room,6500,181,0,Single,1,Unfurnished,No,Yes,No,Yes,0.9,4500,Synthetic starter data
+240,Geeta Bhawan,2 BHK,15500,837,2,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,0.9,15000,Synthetic starter data
+241,Bhawarkua,1 BHK,9700,877,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,2.5,20000,Synthetic starter data
+242,Vijay Nagar,Shared Room,3500,336,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,4.1,6500,Synthetic starter data
+243,Scheme 54,2 BHK,19700,1180,2,Whole Property,1,Unfurnished,Yes,Yes,No,No,0.9,22500,Synthetic starter data
+244,Palasia,PG,5000,194,0,Double,1,Fully Furnished,No,Yes,No,No,1.5,7500,Synthetic starter data
+245,Palasia,2 BHK,13800,849,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,Yes,4.5,15000,Synthetic starter data
+246,Sukhliya,PG,3200,102,0,Triple,1,Fully Furnished,Yes,Yes,Yes,No,0.4,3000,Synthetic starter data
+247,Rau,PG,4600,227,0,Single,1,Fully Furnished,No,Yes,No,Yes,4.4,8500,Synthetic starter data
+248,Scheme 54,Single Room,6000,115,0,Single,1,Semi-Furnished,Yes,No,No,Yes,0.4,10500,Synthetic starter data
+249,Scheme 54,PG,8000,242,0,Single,1,Semi-Furnished,Yes,Yes,Yes,Yes,2.0,11000,Synthetic starter data
+250,Palasia,Single Room,7900,231,0,Single,1,Unfurnished,No,No,No,Yes,3.0,4500,Synthetic starter data
+251,Sukhliya,Shared Room,2500,238,0,Triple,1,Semi-Furnished,No,Yes,No,No,0.7,2500,Synthetic starter data
+252,Vijay Nagar,Shared Room,3200,386,0,Triple,1,Semi-Furnished,Yes,No,No,Yes,4.0,6000,Synthetic starter data
+253,Bicholi Mardana,Single Room,5200,281,0,Single,1,Semi-Furnished,No,Yes,No,Yes,1.1,3000,Synthetic starter data
+254,Vijay Nagar,2 BHK,19000,764,2,Whole Property,2,Semi-Furnished,No,Yes,No,No,4.6,20500,Synthetic starter data
+255,Bhawarkua,Single Room,5000,102,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,5.1,9500,Synthetic starter data
+256,Bhawarkua,2 BHK,13700,1021,2,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,1.5,15500,Synthetic starter data
+257,LIG Colony,PG,5700,243,0,Single,1,Fully Furnished,No,Yes,Yes,Yes,2.6,11000,Synthetic starter data
+258,LIG Colony,1 BHK,8500,543,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,4.7,10000,Synthetic starter data
+259,Vijay Nagar,PG,5200,245,0,Double,1,Fully Furnished,No,Yes,Yes,No,4.5,3500,Synthetic starter data
+260,Palasia,Shared Room,4000,384,0,Double,1,Fully Furnished,No,No,No,Yes,3.2,5000,Synthetic starter data
+261,Geeta Bhawan,PG,6000,188,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,3.5,7000,Synthetic starter data
+262,Bhawarkua,2 BHK,16200,1377,2,Whole Property,2,Fully Furnished,No,Yes,No,No,1.1,23000,Synthetic starter data
+263,Bhawarkua,Single Room,6700,238,0,Single,1,Semi-Furnished,Yes,Yes,No,No,1.1,6500,Synthetic starter data
+264,Scheme 54,2 BHK,18200,1377,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,3.9,20000,Synthetic starter data
+265,Rau,2 BHK,11100,1116,2,Whole Property,2,Unfurnished,Yes,Yes,No,No,4.0,8000,Synthetic starter data
+266,Bhawarkua,Single Room,5900,168,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,0.6,5500,Synthetic starter data
+267,Sukhliya,PG,5400,174,0,Single,1,Fully Furnished,Yes,Yes,No,No,1.6,7500,Synthetic starter data
+268,Palasia,Single Room,8400,289,0,Single,1,Unfurnished,Yes,Yes,No,Yes,2.2,16000,Synthetic starter data
+269,Palasia,PG,5500,143,0,Double,1,Fully Furnished,No,Yes,No,Yes,1.3,8500,Synthetic starter data
+270,Vijay Nagar,PG,5500,200,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.4,10500,Synthetic starter data
+271,Scheme 54,1 BHK,10300,545,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,5.1,11000,Synthetic starter data
+272,Sukhliya,PG,4800,138,0,Single,1,Fully Furnished,Yes,No,No,Yes,1.2,8500,Synthetic starter data
+273,Sukhliya,Single Room,4700,182,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,5.1,3000,Synthetic starter data
+274,Sukhliya,Shared Room,3500,312,0,Double,1,Fully Furnished,Yes,Yes,No,No,4.4,5500,Synthetic starter data
+275,Bhawarkua,2 BHK,13500,838,2,Whole Property,1,Fully Furnished,Yes,No,No,Yes,4.8,10500,Synthetic starter data
+276,Scheme 54,2 BHK,19600,959,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,1.4,18500,Synthetic starter data
+277,Bicholi Mardana,Single Room,5200,255,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.8,8500,Synthetic starter data
+278,Rau,2 BHK,9800,890,2,Whole Property,2,Unfurnished,Yes,Yes,No,No,3.7,20000,Synthetic starter data
+279,Rau,2 BHK,11900,1110,2,Whole Property,1,Unfurnished,Yes,Yes,No,No,0.9,12000,Synthetic starter data
+280,Palasia,Single Room,9000,303,0,Single,1,Fully Furnished,No,Yes,No,No,3.9,11000,Synthetic starter data
+281,Sukhliya,PG,4000,246,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,0.8,4500,Synthetic starter data
+282,Rau,Shared Room,2800,167,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.3,1500,Synthetic starter data
+283,Palasia,Shared Room,4300,167,0,Double,1,Fully Furnished,No,Yes,No,Yes,0.6,6000,Synthetic starter data
+284,Bengali Square,2 BHK,16600,1399,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,No,0.9,8500,Synthetic starter data
+285,Palasia,PG,6200,216,0,Double,1,Semi-Furnished,No,Yes,No,Yes,6.0,4500,Synthetic starter data
+286,Sukhliya,PG,3700,240,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,0.7,6500,Synthetic starter data
+287,Rau,Single Room,3600,161,0,Single,1,Semi-Furnished,No,Yes,No,No,5.1,7000,Synthetic starter data
+288,Geeta Bhawan,1 BHK,12100,825,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,1.5,20000,Synthetic starter data
+289,Rau,2 BHK,14100,1298,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,Yes,4.3,13500,Synthetic starter data
+290,Bicholi Mardana,PG,2600,239,0,Triple,1,Semi-Furnished,No,Yes,No,Yes,3.0,1500,Synthetic starter data
+291,Bhawarkua,Single Room,5100,102,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.2,3000,Synthetic starter data
+292,LIG Colony,1 BHK,7300,533,1,Whole Property,1,Semi-Furnished,No,Yes,No,No,2.8,11000,Synthetic starter data
+293,Bhawarkua,1 BHK,10200,827,1,Whole Property,1,Unfurnished,No,Yes,No,No,5.7,10000,Synthetic starter data
+294,Bicholi Mardana,2 BHK,9100,962,2,Whole Property,1,Unfurnished,No,Yes,No,Yes,4.8,21500,Synthetic starter data
+295,Rau,Single Room,4600,257,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.3,7500,Synthetic starter data
+296,Bhawarkua,PG,3900,223,0,Double,1,Semi-Furnished,Yes,Yes,Yes,Yes,4.5,7500,Synthetic starter data
+297,Vijay Nagar,Shared Room,4600,281,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.5,3500,Synthetic starter data
+298,Palasia,Single Room,7700,118,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,2.2,8500,Synthetic starter data
+299,Bengali Square,PG,3500,137,0,Triple,1,Fully Furnished,Yes,Yes,Yes,Yes,1.5,4000,Synthetic starter data
+300,Bengali Square,Single Room,7500,340,0,Single,1,Semi-Furnished,No,Yes,No,Yes,5.3,6000,Synthetic starter data
+301,Sukhliya,2 BHK,9100,822,2,Whole Property,2,Semi-Furnished,No,No,No,Yes,2.2,17500,Synthetic starter data
+302,LIG Colony,2 BHK,11900,888,2,Whole Property,1,Fully Furnished,No,No,No,Yes,0.7,22000,Synthetic starter data
+303,Rau,Shared Room,2500,339,0,Triple,1,Fully Furnished,No,Yes,No,Yes,5.9,1500,Synthetic starter data
+304,Sukhliya,Shared Room,2500,251,0,Triple,1,Fully Furnished,No,Yes,No,Yes,0.3,2000,Synthetic starter data
+305,Sukhliya,Single Room,5400,191,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,3.6,5500,Synthetic starter data
+306,Rau,Shared Room,2600,330,0,Triple,1,Fully Furnished,No,Yes,No,Yes,5.4,3500,Synthetic starter data
+307,LIG Colony,1 BHK,11600,836,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,4.6,9500,Synthetic starter data
+308,Rau,Shared Room,2500,356,0,Double,1,Fully Furnished,Yes,No,No,Yes,1.4,1500,Synthetic starter data
+309,Sukhliya,Single Room,4400,189,0,Single,1,Semi-Furnished,No,Yes,No,Yes,3.3,7000,Synthetic starter data
+310,Bengali Square,1 BHK,12300,854,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,4.1,20000,Synthetic starter data
+311,Scheme 54,1 BHK,11900,775,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,1.5,15000,Synthetic starter data
+312,LIG Colony,1 BHK,8100,765,1,Whole Property,1,Fully Furnished,No,Yes,No,No,5.4,9500,Synthetic starter data
+313,LIG Colony,2 BHK,15700,979,2,Whole Property,2,Fully Furnished,No,Yes,No,No,5.0,23500,Synthetic starter data
+314,Rau,Single Room,3600,134,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.1,6000,Synthetic starter data
+315,Bhawarkua,PG,3400,203,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.6,4500,Synthetic starter data
+316,Vijay Nagar,Shared Room,2900,193,0,Triple,1,Fully Furnished,Yes,Yes,No,No,2.5,3500,Synthetic starter data
+317,Geeta Bhawan,Shared Room,4400,268,0,Double,1,Semi-Furnished,No,Yes,No,Yes,3.7,2000,Synthetic starter data
+318,Sukhliya,Single Room,5300,314,0,Single,1,Unfurnished,No,Yes,No,Yes,5.9,3500,Synthetic starter data
+319,Bengali Square,1 BHK,11500,776,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,4.1,19000,Synthetic starter data
+320,Sukhliya,1 BHK,8400,567,1,Whole Property,1,Semi-Furnished,No,Yes,No,No,5.3,10000,Synthetic starter data
+321,Scheme 54,Shared Room,4400,194,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,2.7,2500,Synthetic starter data
+322,LIG Colony,Shared Room,3200,164,0,Double,1,Semi-Furnished,No,Yes,No,No,5.3,2000,Synthetic starter data
+323,Bhawarkua,PG,4300,208,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,2.8,4500,Synthetic starter data
+324,Rau,Shared Room,2500,190,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,0.9,1500,Synthetic starter data
+325,Vijay Nagar,2 BHK,17300,1387,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,3.9,16500,Synthetic starter data
+326,Rau,2 BHK,8500,835,2,Whole Property,2,Unfurnished,Yes,No,No,Yes,0.9,17000,Synthetic starter data
+327,Sukhliya,Shared Room,2700,311,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.9,3500,Synthetic starter data
+328,Rau,1 BHK,6200,555,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,3.4,13500,Synthetic starter data
+329,Sukhliya,PG,5700,102,0,Single,1,Semi-Furnished,No,Yes,Yes,Yes,4.5,6500,Synthetic starter data
+330,Rau,1 BHK,6300,467,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,5.4,11500,Synthetic starter data
+331,Scheme 54,Shared Room,3300,307,0,Triple,1,Fully Furnished,No,Yes,No,Yes,2.4,5000,Synthetic starter data
+332,Bhawarkua,PG,5200,239,0,Single,1,Fully Furnished,Yes,Yes,Yes,No,1.7,11000,Synthetic starter data
+333,LIG Colony,Single Room,5000,158,0,Single,1,Unfurnished,No,Yes,No,Yes,1.6,4500,Synthetic starter data
+334,Bhawarkua,PG,3300,203,0,Triple,1,Fully Furnished,Yes,Yes,Yes,Yes,1.4,3000,Synthetic starter data
+335,Bhawarkua,2 BHK,13100,1028,2,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,3.0,21500,Synthetic starter data
+336,Palasia,Shared Room,2800,215,0,Triple,1,Fully Furnished,No,Yes,No,Yes,4.6,2000,Synthetic starter data
+337,Geeta Bhawan,PG,4700,197,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.1,3500,Synthetic starter data
+338,Bhawarkua,PG,3900,225,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,4.6,3000,Synthetic starter data
+339,Scheme 54,PG,4900,174,0,Double,1,Semi-Furnished,No,Yes,Yes,No,2.8,3500,Synthetic starter data
+340,Rau,Single Room,4200,293,0,Single,1,Semi-Furnished,No,Yes,No,Yes,4.2,5000,Synthetic starter data
+341,Scheme 54,2 BHK,16100,1120,2,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,4.2,23000,Synthetic starter data
+342,Scheme 54,PG,6000,117,0,Single,1,Fully Furnished,Yes,No,No,Yes,2.4,14000,Synthetic starter data
+343,Vijay Nagar,PG,8000,165,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,0.3,4500,Synthetic starter data
+344,Bhawarkua,PG,6300,116,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.6,10500,Synthetic starter data
+345,LIG Colony,2 BHK,11400,836,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,3.7,21500,Synthetic starter data
+346,Palasia,PG,5400,199,0,Double,1,Fully Furnished,Yes,Yes,Yes,Yes,5.4,5500,Synthetic starter data
+347,Sukhliya,Shared Room,2500,346,0,Triple,1,Fully Furnished,No,No,No,Yes,2.2,1000,Synthetic starter data
+348,Vijay Nagar,Shared Room,4400,175,0,Double,1,Fully Furnished,No,Yes,No,No,4.8,6500,Synthetic starter data
+349,Geeta Bhawan,2 BHK,11600,857,2,Whole Property,1,Fully Furnished,Yes,Yes,No,No,5.0,28500,Synthetic starter data
+350,Vijay Nagar,PG,4900,111,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.0,9500,Synthetic starter data
+351,Palasia,Single Room,6300,107,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,5.1,6500,Synthetic starter data
+352,Bhawarkua,PG,4400,116,0,Double,1,Semi-Furnished,Yes,Yes,Yes,Yes,0.7,4500,Synthetic starter data
+353,Geeta Bhawan,2 BHK,17100,1281,2,Whole Property,2,Fully Furnished,No,Yes,No,No,5.1,14000,Synthetic starter data
+354,Scheme 54,PG,4300,236,0,Double,1,Fully Furnished,No,No,Yes,Yes,2.8,9500,Synthetic starter data
+355,Bicholi Mardana,Single Room,5700,263,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.6,4500,Synthetic starter data
+356,Vijay Nagar,Single Room,6500,127,0,Single,1,Semi-Furnished,No,Yes,No,Yes,5.8,6000,Synthetic starter data
+357,Rau,1 BHK,7900,520,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,2.6,10500,Synthetic starter data
+358,Palasia,1 BHK,11700,620,1,Whole Property,1,Unfurnished,No,Yes,No,No,1.7,7500,Synthetic starter data
+359,Scheme 54,Shared Room,4600,390,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,2.2,2000,Synthetic starter data
+360,Rau,Shared Room,2500,141,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,4.7,4000,Synthetic starter data
+361,Bhawarkua,Single Room,3800,117,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.6,5000,Synthetic starter data
+362,Bhawarkua,PG,4600,114,0,Double,1,Semi-Furnished,No,Yes,Yes,No,0.6,3000,Synthetic starter data
+363,Rau,PG,3800,174,0,Single,1,Semi-Furnished,No,Yes,Yes,No,5.6,5500,Synthetic starter data
+364,Vijay Nagar,Shared Room,4800,358,0,Double,1,Fully Furnished,No,Yes,No,No,3.4,4000,Synthetic starter data
+365,Sukhliya,PG,2600,200,0,Triple,1,Fully Furnished,Yes,Yes,Yes,Yes,1.6,2500,Synthetic starter data
+366,Vijay Nagar,PG,7600,165,0,Single,1,Fully Furnished,Yes,Yes,No,No,4.6,12500,Synthetic starter data
+367,Palasia,1 BHK,12400,885,1,Whole Property,1,Fully Furnished,Yes,Yes,No,No,1.2,9500,Synthetic starter data
+368,Palasia,Shared Room,3500,149,0,Double,1,Fully Furnished,No,Yes,No,Yes,1.8,7500,Synthetic starter data
+369,LIG Colony,Single Room,6700,330,0,Single,1,Fully Furnished,No,No,No,No,1.1,8500,Synthetic starter data
+370,Vijay Nagar,PG,5100,166,0,Triple,1,Semi-Furnished,Yes,No,No,No,4.1,5500,Synthetic starter data
+371,LIG Colony,Single Room,6000,280,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.1,7500,Synthetic starter data
+372,Palasia,PG,7500,174,0,Single,1,Semi-Furnished,Yes,Yes,Yes,No,6.0,7000,Synthetic starter data
+373,Bhawarkua,1 BHK,10900,835,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,0.8,20000,Synthetic starter data
+374,Rau,Shared Room,2500,365,0,Double,1,Fully Furnished,No,No,No,Yes,4.5,2500,Synthetic starter data
+375,Palasia,2 BHK,20000,1173,2,Whole Property,1,Fully Furnished,No,Yes,No,No,3.1,30000,Synthetic starter data
+376,Bengali Square,Shared Room,3100,313,0,Triple,1,Fully Furnished,No,Yes,No,Yes,3.2,1500,Synthetic starter data
+377,Vijay Nagar,Shared Room,4600,247,0,Double,1,Semi-Furnished,Yes,No,No,No,4.4,7000,Synthetic starter data
+378,Geeta Bhawan,Shared Room,3500,242,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.8,2000,Synthetic starter data
+379,Sukhliya,2 BHK,12700,1348,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,5.5,19000,Synthetic starter data
+380,Sukhliya,1 BHK,7800,784,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,1.1,5500,Synthetic starter data
+381,Scheme 54,2 BHK,16200,1040,2,Whole Property,2,Unfurnished,No,Yes,No,Yes,5.9,14000,Synthetic starter data
+382,Vijay Nagar,PG,3200,143,0,Triple,1,Fully Furnished,Yes,No,No,Yes,4.9,4000,Synthetic starter data
+383,Rau,Single Room,4900,256,0,Single,1,Unfurnished,No,Yes,No,Yes,4.5,7000,Synthetic starter data
+384,Bhawarkua,1 BHK,8400,692,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,0.4,8500,Synthetic starter data
+385,Palasia,Shared Room,3400,330,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,2.0,3000,Synthetic starter data
+386,Scheme 54,2 BHK,18300,956,2,Whole Property,1,Semi-Furnished,No,No,No,Yes,3.1,25000,Synthetic starter data
+387,Bhawarkua,Single Room,6700,269,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.4,3500,Synthetic starter data
+388,Rau,2 BHK,12000,1170,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,2.2,17000,Synthetic starter data
+389,Palasia,1 BHK,14300,815,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,2.1,17500,Synthetic starter data
+390,Palasia,PG,7100,124,0,Single,1,Fully Furnished,No,Yes,Yes,Yes,1.0,13500,Synthetic starter data
+391,Palasia,Single Room,6400,146,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,2.7,10500,Synthetic starter data
+392,Bhawarkua,PG,3900,139,0,Double,1,Fully Furnished,Yes,Yes,Yes,Yes,4.5,3500,Synthetic starter data
+393,Vijay Nagar,Shared Room,4100,308,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,0.8,5500,Synthetic starter data
+394,Rau,PG,5100,120,0,Single,1,Fully Furnished,Yes,No,No,Yes,5.0,3000,Synthetic starter data
+395,Palasia,Shared Room,3700,137,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,5.9,3000,Synthetic starter data
+396,Scheme 54,Single Room,6400,245,0,Single,1,Semi-Furnished,No,Yes,No,Yes,4.9,14500,Synthetic starter data
+397,Vijay Nagar,2 BHK,18100,1154,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,0.4,12500,Synthetic starter data
+398,Palasia,1 BHK,11100,635,1,Whole Property,1,Semi-Furnished,Yes,No,No,No,3.7,12000,Synthetic starter data
+399,Scheme 54,Shared Room,3100,253,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,5.2,2500,Synthetic starter data
+400,Palasia,PG,4000,131,0,Triple,1,Fully Furnished,No,Yes,Yes,Yes,0.4,3000,Synthetic starter data
+401,Sukhliya,PG,4100,229,0,Double,1,Fully Furnished,Yes,Yes,Yes,No,1.1,4500,Synthetic starter data
+402,LIG Colony,Shared Room,2900,134,0,Triple,1,Semi-Furnished,No,No,No,Yes,2.9,2500,Synthetic starter data
+403,Geeta Bhawan,Single Room,6800,212,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.3,5500,Synthetic starter data
+404,Vijay Nagar,Single Room,7300,177,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.2,12000,Synthetic starter data
+405,Palasia,Shared Room,3500,187,0,Double,1,Fully Furnished,Yes,No,No,Yes,4.5,4000,Synthetic starter data
+406,Vijay Nagar,PG,5100,155,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,3.9,8000,Synthetic starter data
+407,Scheme 54,Single Room,6700,125,0,Single,1,Unfurnished,No,Yes,No,Yes,2.6,12500,Synthetic starter data
+408,Rau,1 BHK,7600,797,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,1.3,15500,Synthetic starter data
+409,LIG Colony,Shared Room,3500,245,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.6,2000,Synthetic starter data
+410,Palasia,Single Room,6800,257,0,Single,1,Unfurnished,Yes,Yes,No,Yes,1.4,7500,Synthetic starter data
+411,Bhawarkua,PG,3100,224,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,4.8,5000,Synthetic starter data
+412,Vijay Nagar,PG,6700,234,0,Double,1,Fully Furnished,Yes,Yes,Yes,No,1.7,3500,Synthetic starter data
+413,Rau,PG,4800,206,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.3,8500,Synthetic starter data
+414,LIG Colony,Shared Room,2700,330,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,1.2,2000,Synthetic starter data
+415,Scheme 54,Single Room,7100,188,0,Single,1,Semi-Furnished,No,Yes,No,Yes,0.8,4500,Synthetic starter data
+416,Bhawarkua,Single Room,5800,343,0,Single,1,Fully Furnished,No,Yes,No,No,2.1,6500,Synthetic starter data
+417,Bhawarkua,Single Room,6100,220,0,Single,1,Unfurnished,Yes,Yes,No,Yes,4.2,11000,Synthetic starter data
+418,Vijay Nagar,PG,4000,206,0,Triple,1,Fully Furnished,No,Yes,Yes,Yes,2.3,8000,Synthetic starter data
+419,Vijay Nagar,Shared Room,4500,179,0,Double,1,Fully Furnished,No,Yes,No,No,2.0,7000,Synthetic starter data
+420,Bicholi Mardana,Single Room,6500,308,0,Single,1,Fully Furnished,No,Yes,No,Yes,4.4,6000,Synthetic starter data
+421,Vijay Nagar,PG,5600,158,0,Double,1,Fully Furnished,Yes,Yes,Yes,No,5.5,5500,Synthetic starter data
+422,Scheme 54,PG,4100,96,0,Triple,1,Fully Furnished,No,No,Yes,No,0.8,5500,Synthetic starter data
+423,Palasia,Shared Room,3200,126,0,Triple,1,Semi-Furnished,No,Yes,No,Yes,5.7,5000,Synthetic starter data
+424,Geeta Bhawan,Shared Room,2900,194,0,Double,1,Semi-Furnished,Yes,No,No,Yes,4.1,6000,Synthetic starter data
+425,Scheme 54,2 BHK,16600,808,2,Whole Property,2,Unfurnished,No,Yes,No,Yes,3.9,22500,Synthetic starter data
+426,Bicholi Mardana,PG,5100,176,0,Single,1,Fully Furnished,No,Yes,Yes,No,3.2,7500,Synthetic starter data
+427,Palasia,1 BHK,11200,673,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,4.3,22000,Synthetic starter data
+428,Vijay Nagar,Shared Room,3900,198,0,Double,1,Semi-Furnished,No,Yes,No,Yes,1.7,8000,Synthetic starter data
+429,Rau,1 BHK,7000,801,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,0.6,7000,Synthetic starter data
+430,Bhawarkua,Single Room,6800,346,0,Single,1,Semi-Furnished,Yes,Yes,No,No,1.7,4000,Synthetic starter data
+431,Sukhliya,Shared Room,2800,204,0,Double,1,Fully Furnished,No,No,No,No,4.1,2000,Synthetic starter data
+432,Sukhliya,Single Room,5900,316,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.5,6500,Synthetic starter data
+433,Bhawarkua,PG,2800,153,0,Triple,1,Fully Furnished,No,Yes,No,No,4.4,2500,Synthetic starter data
+434,Bhawarkua,PG,4500,250,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,0.6,3000,Synthetic starter data
+435,Vijay Nagar,Single Room,6500,117,0,Single,1,Semi-Furnished,No,Yes,No,No,5.3,11000,Synthetic starter data
+436,Bengali Square,PG,3500,235,0,Triple,1,Semi-Furnished,No,Yes,No,No,5.2,2500,Synthetic starter data
+437,Sukhliya,Single Room,5900,350,0,Single,1,Fully Furnished,No,Yes,No,Yes,5.5,3500,Synthetic starter data
+438,Bhawarkua,Single Room,5500,284,0,Single,1,Fully Furnished,Yes,Yes,No,No,5.5,7500,Synthetic starter data
+439,Rau,PG,2500,201,0,Triple,1,Fully Furnished,No,Yes,No,No,5.5,4000,Synthetic starter data
+440,Vijay Nagar,1 BHK,12000,834,1,Whole Property,1,Unfurnished,Yes,Yes,No,No,1.7,24500,Synthetic starter data
+441,Bhawarkua,1 BHK,8900,617,1,Whole Property,1,Fully Furnished,Yes,No,No,Yes,0.4,15000,Synthetic starter data
+442,Bengali Square,2 BHK,16100,1201,2,Whole Property,1,Unfurnished,No,Yes,No,Yes,2.8,27500,Synthetic starter data
+443,Geeta Bhawan,Single Room,6700,228,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.7,4000,Synthetic starter data
+444,Vijay Nagar,PG,5600,158,0,Double,1,Fully Furnished,No,Yes,No,Yes,4.7,5500,Synthetic starter data
+445,Geeta Bhawan,PG,7000,240,0,Single,1,Fully Furnished,No,Yes,No,No,3.5,10500,Synthetic starter data
+446,Scheme 54,1 BHK,14100,854,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,2.0,19500,Synthetic starter data
+447,Geeta Bhawan,1 BHK,6800,464,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,3.0,10000,Synthetic starter data
+448,Bhawarkua,Single Room,6600,290,0,Single,1,Semi-Furnished,No,Yes,No,Yes,0.8,5000,Synthetic starter data
+449,Bengali Square,PG,4800,146,0,Double,1,Fully Furnished,Yes,Yes,Yes,No,1.2,9000,Synthetic starter data
+450,Bengali Square,2 BHK,12800,901,2,Whole Property,2,Fully Furnished,No,Yes,No,Yes,1.4,25500,Synthetic starter data
+451,Vijay Nagar,PG,5300,209,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,1.6,8500,Synthetic starter data
+452,Rau,2 BHK,11700,1087,2,Whole Property,1,Unfurnished,No,Yes,No,Yes,2.8,10500,Synthetic starter data
+453,Sukhliya,1 BHK,7300,603,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,4.5,13000,Synthetic starter data
+454,Vijay Nagar,Single Room,9500,307,0,Single,1,Fully Furnished,No,Yes,No,Yes,3.0,12500,Synthetic starter data
+455,Bhawarkua,PG,4400,250,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.8,4500,Synthetic starter data
+456,Bengali Square,1 BHK,10100,665,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,0.6,5500,Synthetic starter data
+457,Rau,Single Room,3500,180,0,Single,1,Unfurnished,Yes,Yes,No,No,3.7,7000,Synthetic starter data
+458,Geeta Bhawan,PG,4000,111,0,Triple,1,Fully Furnished,No,Yes,Yes,Yes,3.5,5000,Synthetic starter data
+459,Bhawarkua,1 BHK,12200,806,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,1.2,15500,Synthetic starter data
+460,Bhawarkua,PG,6200,238,0,Single,1,Semi-Furnished,No,No,No,Yes,1.8,9000,Synthetic starter data
+461,Bhawarkua,PG,4600,99,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,3.7,3000,Synthetic starter data
+462,Bicholi Mardana,1 BHK,6700,579,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,3.1,4000,Synthetic starter data
+463,Bhawarkua,Single Room,8000,349,0,Single,1,Fully Furnished,Yes,Yes,No,No,1.4,4000,Synthetic starter data
+464,Palasia,PG,4800,139,0,Double,1,Fully Furnished,No,Yes,Yes,No,5.1,9500,Synthetic starter data
+465,Rau,1 BHK,10500,895,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,0.8,16500,Synthetic starter data
+466,Bhawarkua,Single Room,6500,286,0,Single,1,Semi-Furnished,No,Yes,No,No,1.0,5500,Synthetic starter data
+467,Scheme 54,Single Room,8400,333,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,5.1,5500,Synthetic starter data
+468,Scheme 54,PG,4900,173,0,Double,1,Fully Furnished,Yes,Yes,Yes,Yes,0.9,5500,Synthetic starter data
+469,Vijay Nagar,1 BHK,10200,588,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,3.2,20500,Synthetic starter data
+470,Bhawarkua,PG,6400,229,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,3.4,5000,Synthetic starter data
+471,Rau,1 BHK,9000,828,1,Whole Property,1,Fully Furnished,No,No,No,No,3.3,14500,Synthetic starter data
+472,Rau,PG,3100,162,0,Double,1,Fully Furnished,No,Yes,No,Yes,1.0,3000,Synthetic starter data
+473,Bhawarkua,2 BHK,10000,789,2,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,1.5,18500,Synthetic starter data
+474,Palasia,1 BHK,10800,600,1,Whole Property,1,Unfurnished,Yes,No,No,No,4.9,11000,Synthetic starter data
+475,Vijay Nagar,Single Room,8300,339,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.8,6000,Synthetic starter data
+476,Scheme 54,PG,3700,122,0,Double,1,Fully Furnished,No,No,No,Yes,1.6,5000,Synthetic starter data
+477,Palasia,PG,7800,93,0,Single,1,Semi-Furnished,Yes,Yes,Yes,Yes,3.9,11000,Synthetic starter data
+478,Bengali Square,Shared Room,3700,379,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.6,3000,Synthetic starter data
+479,Bhawarkua,Single Room,6500,195,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,5.3,4000,Synthetic starter data
+480,Palasia,1 BHK,13800,773,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,0.5,13000,Synthetic starter data
+481,Bicholi Mardana,Single Room,5000,197,0,Single,1,Unfurnished,Yes,Yes,No,Yes,4.4,6000,Synthetic starter data
+482,Palasia,1 BHK,13300,818,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,3.4,14500,Synthetic starter data
+483,LIG Colony,PG,3000,173,0,Triple,1,Fully Furnished,No,Yes,Yes,Yes,5.2,3000,Synthetic starter data
+484,Rau,1 BHK,7900,814,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,5.0,4000,Synthetic starter data
+485,Palasia,Single Room,7600,330,0,Single,1,Unfurnished,Yes,Yes,No,No,0.6,5500,Synthetic starter data
+486,Bhawarkua,PG,6400,158,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.0,8000,Synthetic starter data
+487,Vijay Nagar,Shared Room,4500,162,0,Double,1,Fully Furnished,Yes,Yes,No,No,5.4,4000,Synthetic starter data
+488,Bicholi Mardana,Shared Room,2900,301,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,5.7,5000,Synthetic starter data
+489,Sukhliya,Shared Room,2500,346,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,1.8,2000,Synthetic starter data
+490,Bicholi Mardana,2 BHK,11800,1120,2,Whole Property,1,Semi-Furnished,No,Yes,No,No,4.2,17000,Synthetic starter data
+491,Geeta Bhawan,2 BHK,18800,1078,2,Whole Property,1,Fully Furnished,Yes,Yes,No,No,6.0,14500,Synthetic starter data
+492,Palasia,PG,4900,247,0,Triple,1,Fully Furnished,No,Yes,No,Yes,3.2,8000,Synthetic starter data
+493,Geeta Bhawan,Single Room,6500,187,0,Single,1,Unfurnished,Yes,No,No,Yes,1.7,3500,Synthetic starter data
+494,Scheme 54,Single Room,6000,247,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,0.4,11000,Synthetic starter data
+495,Bengali Square,Single Room,7000,273,0,Single,1,Fully Furnished,No,Yes,No,No,1.7,8000,Synthetic starter data
+496,Rau,PG,4900,226,0,Single,1,Semi-Furnished,Yes,No,No,Yes,2.3,8500,Synthetic starter data
+497,Bicholi Mardana,Single Room,5600,303,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,1.6,4000,Synthetic starter data
+498,Sukhliya,PG,2800,197,0,Triple,1,Fully Furnished,Yes,No,Yes,Yes,3.6,5500,Synthetic starter data
+499,Bhawarkua,1 BHK,10900,701,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,5.9,8500,Synthetic starter data
+500,Scheme 54,Single Room,7000,259,0,Single,1,Fully Furnished,Yes,No,No,Yes,1.4,8000,Synthetic starter data
+501,Geeta Bhawan,Shared Room,3600,350,0,Double,1,Semi-Furnished,Yes,Yes,No,No,0.3,4500,Synthetic starter data
+502,Palasia,Single Room,8700,275,0,Single,1,Fully Furnished,Yes,Yes,No,No,5.2,14000,Synthetic starter data
+503,Rau,1 BHK,7300,681,1,Whole Property,1,Fully Furnished,No,No,No,No,1.6,5500,Synthetic starter data
+504,Vijay Nagar,2 BHK,20800,1193,2,Whole Property,2,Semi-Furnished,No,No,No,Yes,4.1,26500,Synthetic starter data
+505,LIG Colony,PG,3800,169,0,Double,1,Fully Furnished,Yes,Yes,No,No,1.3,5000,Synthetic starter data
+506,Vijay Nagar,Single Room,10400,336,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,1.8,10500,Synthetic starter data
+507,Vijay Nagar,2 BHK,18400,1144,2,Whole Property,1,Fully Furnished,No,Yes,No,No,3.9,21500,Synthetic starter data
+508,Scheme 54,PG,3800,222,0,Triple,1,Fully Furnished,No,Yes,Yes,Yes,3.4,3000,Synthetic starter data
+509,Sukhliya,1 BHK,7900,674,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,4.1,7000,Synthetic starter data
+510,Vijay Nagar,1 BHK,13000,638,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,1.1,10500,Synthetic starter data
+511,Rau,2 BHK,12200,1314,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,3.9,12000,Synthetic starter data
+512,Vijay Nagar,1 BHK,13600,860,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,0.8,21000,Synthetic starter data
+513,LIG Colony,Shared Room,3500,222,0,Double,1,Semi-Furnished,No,Yes,No,Yes,0.9,2000,Synthetic starter data
+514,LIG Colony,Single Room,6600,329,0,Single,1,Unfurnished,No,Yes,No,Yes,0.7,12500,Synthetic starter data
+515,Rau,Single Room,4900,337,0,Single,1,Unfurnished,No,Yes,No,Yes,0.6,5500,Synthetic starter data
+516,Vijay Nagar,PG,5600,102,0,Double,1,Fully Furnished,Yes,Yes,No,No,1.7,6000,Synthetic starter data
+517,Scheme 54,2 BHK,18700,1358,2,Whole Property,1,Semi-Furnished,Yes,No,No,No,4.6,11000,Synthetic starter data
+518,Rau,Shared Room,2800,273,0,Double,1,Semi-Furnished,No,No,No,Yes,2.6,5000,Synthetic starter data
+519,Palasia,PG,5800,248,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,0.5,8500,Synthetic starter data
+520,Sukhliya,Shared Room,3200,283,0,Double,1,Fully Furnished,No,Yes,No,No,3.8,1500,Synthetic starter data
+521,Bengali Square,Single Room,6100,224,0,Single,1,Unfurnished,Yes,Yes,No,No,4.3,11000,Synthetic starter data
+522,Geeta Bhawan,Single Room,7300,228,0,Single,1,Fully Furnished,No,Yes,No,No,4.7,5500,Synthetic starter data
+523,Geeta Bhawan,PG,4900,113,0,Double,1,Fully Furnished,No,Yes,No,Yes,4.0,4000,Synthetic starter data
+524,Geeta Bhawan,1 BHK,9000,564,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,5.9,18500,Synthetic starter data
+525,Vijay Nagar,1 BHK,11400,488,1,Whole Property,1,Unfurnished,Yes,No,No,Yes,4.0,20000,Synthetic starter data
+526,Sukhliya,Single Room,4500,155,0,Single,1,Fully Furnished,No,Yes,No,Yes,3.2,6000,Synthetic starter data
+527,Vijay Nagar,Single Room,9800,315,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,5.6,15000,Synthetic starter data
+528,Bengali Square,Shared Room,3100,222,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,3.2,2500,Synthetic starter data
+529,Palasia,Single Room,6100,101,0,Single,1,Semi-Furnished,No,No,No,No,4.2,5500,Synthetic starter data
+530,Scheme 54,2 BHK,17900,1137,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,5.6,33500,Synthetic starter data
+531,Bhawarkua,2 BHK,16800,1398,2,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,1.2,15500,Synthetic starter data
+532,Sukhliya,Single Room,5400,341,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.6,8000,Synthetic starter data
+533,Vijay Nagar,PG,4800,109,0,Triple,1,Semi-Furnished,No,Yes,Yes,Yes,5.8,8000,Synthetic starter data
+534,Vijay Nagar,2 BHK,20300,1398,2,Whole Property,2,Fully Furnished,Yes,Yes,No,No,1.5,18000,Synthetic starter data
+535,Vijay Nagar,Single Room,6600,102,0,Single,1,Semi-Furnished,Yes,Yes,No,No,5.0,6000,Synthetic starter data
+536,LIG Colony,Single Room,5000,209,0,Single,1,Semi-Furnished,Yes,Yes,No,No,2.4,9000,Synthetic starter data
+537,Bengali Square,PG,5300,156,0,Double,1,Semi-Furnished,Yes,Yes,Yes,No,3.7,8000,Synthetic starter data
+538,Geeta Bhawan,Single Room,5400,184,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,2.9,6500,Synthetic starter data
+539,Bhawarkua,Shared Room,2500,234,0,Triple,1,Semi-Furnished,No,Yes,No,No,1.1,1500,Synthetic starter data
+540,Palasia,Shared Room,3900,286,0,Double,1,Semi-Furnished,Yes,No,No,Yes,5.9,4500,Synthetic starter data
+541,Bhawarkua,Single Room,5200,205,0,Single,1,Semi-Furnished,No,Yes,No,Yes,5.2,8500,Synthetic starter data
+542,Bhawarkua,Shared Room,2500,158,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.3,6000,Synthetic starter data
+543,Vijay Nagar,Shared Room,3600,392,0,Triple,1,Fully Furnished,Yes,No,No,Yes,5.7,4500,Synthetic starter data
+544,Vijay Nagar,Single Room,10000,277,0,Single,1,Unfurnished,Yes,Yes,No,Yes,0.6,10000,Synthetic starter data
+545,LIG Colony,2 BHK,13000,935,2,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,1.9,17000,Synthetic starter data
+546,Bhawarkua,1 BHK,7700,578,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,2.2,7500,Synthetic starter data
+547,Bicholi Mardana,Single Room,5000,199,0,Single,1,Unfurnished,No,No,No,Yes,0.5,4000,Synthetic starter data
+548,Vijay Nagar,1 BHK,13200,692,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,1.1,9000,Synthetic starter data
+549,Scheme 54,Shared Room,4100,206,0,Double,1,Fully Furnished,Yes,No,No,Yes,3.3,2000,Synthetic starter data
+550,Sukhliya,Single Room,4700,230,0,Single,1,Unfurnished,No,Yes,No,No,5.1,4500,Synthetic starter data
+551,Bicholi Mardana,PG,5700,248,0,Single,1,Fully Furnished,No,Yes,No,Yes,1.1,3000,Synthetic starter data
+552,Sukhliya,1 BHK,9000,838,1,Whole Property,1,Unfurnished,No,Yes,No,No,4.1,6000,Synthetic starter data
+553,Scheme 54,PG,5300,156,0,Double,1,Fully Furnished,Yes,No,No,Yes,5.8,6500,Synthetic starter data
+554,Bhawarkua,1 BHK,9600,836,1,Whole Property,1,Semi-Furnished,No,Yes,No,No,5.2,13000,Synthetic starter data
+555,Sukhliya,1 BHK,8300,821,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,0.8,8000,Synthetic starter data
+556,Geeta Bhawan,Single Room,8000,341,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,4.6,13000,Synthetic starter data
+557,Rau,Single Room,5700,296,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,4.6,3500,Synthetic starter data
+558,Bicholi Mardana,Shared Room,2500,212,0,Triple,1,Fully Furnished,No,Yes,No,Yes,3.1,4000,Synthetic starter data
+559,Scheme 54,Single Room,8000,260,0,Single,1,Unfurnished,No,No,No,No,3.7,10000,Synthetic starter data
+560,Scheme 54,PG,5200,216,0,Double,1,Fully Furnished,No,No,Yes,Yes,2.0,8000,Synthetic starter data
+561,Rau,PG,5000,223,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.7,8000,Synthetic starter data
+562,Bhawarkua,1 BHK,7500,686,1,Whole Property,1,Unfurnished,Yes,No,No,Yes,4.4,9000,Synthetic starter data
+563,LIG Colony,PG,6200,113,0,Single,1,Semi-Furnished,No,Yes,No,Yes,1.8,9000,Synthetic starter data
+564,Vijay Nagar,PG,6900,100,0,Single,1,Semi-Furnished,No,Yes,Yes,Yes,1.9,8500,Synthetic starter data
+565,Sukhliya,Shared Room,2800,249,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.1,3500,Synthetic starter data
+566,Sukhliya,PG,3500,139,0,Double,1,Fully Furnished,Yes,No,Yes,Yes,1.3,5500,Synthetic starter data
+567,Bengali Square,Shared Room,3000,290,0,Double,1,Semi-Furnished,No,Yes,No,No,0.4,5500,Synthetic starter data
+568,Bengali Square,Shared Room,3400,362,0,Double,1,Fully Furnished,Yes,Yes,No,No,0.4,6500,Synthetic starter data
+569,Bengali Square,Single Room,6100,242,0,Single,1,Semi-Furnished,Yes,Yes,No,No,0.4,11000,Synthetic starter data
+570,Vijay Nagar,PG,5900,113,0,Double,1,Fully Furnished,No,Yes,No,Yes,5.5,3500,Synthetic starter data
+571,Bicholi Mardana,Shared Room,3100,281,0,Double,1,Fully Furnished,Yes,Yes,No,No,3.1,3000,Synthetic starter data
+572,LIG Colony,1 BHK,11000,837,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,2.4,10500,Synthetic starter data
+573,Bhawarkua,1 BHK,8400,576,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,1.3,16500,Synthetic starter data
+574,Bengali Square,Single Room,6600,296,0,Single,1,Semi-Furnished,Yes,Yes,No,No,4.0,10500,Synthetic starter data
+575,LIG Colony,2 BHK,13200,1204,2,Whole Property,1,Fully Furnished,No,Yes,No,Yes,1.3,23500,Synthetic starter data
+576,Palasia,PG,5300,193,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.9,9500,Synthetic starter data
+577,Palasia,Shared Room,3800,377,0,Double,1,Fully Furnished,No,Yes,No,No,5.7,6000,Synthetic starter data
+578,Scheme 54,2 BHK,21600,1193,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,Yes,0.7,19500,Synthetic starter data
+579,Palasia,PG,7200,97,0,Single,1,Semi-Furnished,Yes,Yes,Yes,No,2.1,13500,Synthetic starter data
+580,Vijay Nagar,1 BHK,14000,751,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,1.2,17500,Synthetic starter data
+581,Bengali Square,PG,4800,168,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,1.9,8500,Synthetic starter data
+582,Geeta Bhawan,PG,5500,210,0,Double,1,Fully Furnished,Yes,Yes,Yes,Yes,2.1,7000,Synthetic starter data
+583,LIG Colony,PG,2900,207,0,Triple,1,Fully Furnished,Yes,Yes,Yes,Yes,4.6,5500,Synthetic starter data
+584,Sukhliya,Shared Room,2500,199,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,6.0,1500,Synthetic starter data
+585,Vijay Nagar,PG,5300,151,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,0.7,6500,Synthetic starter data
+586,Palasia,Shared Room,3400,342,0,Double,1,Fully Furnished,Yes,No,No,Yes,1.4,5500,Synthetic starter data
+587,Sukhliya,Shared Room,2500,228,0,Triple,1,Semi-Furnished,No,No,No,Yes,3.3,1000,Synthetic starter data
+588,Geeta Bhawan,Shared Room,2500,156,0,Triple,1,Semi-Furnished,Yes,Yes,No,No,3.9,2000,Synthetic starter data
+589,Palasia,Shared Room,2800,255,0,Triple,1,Fully Furnished,No,Yes,No,No,1.5,6000,Synthetic starter data
+590,Bengali Square,2 BHK,14700,1351,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,5.3,27500,Synthetic starter data
+591,Sukhliya,1 BHK,7200,455,1,Whole Property,1,Unfurnished,Yes,Yes,No,Yes,2.8,5000,Synthetic starter data
+592,Sukhliya,2 BHK,11100,1382,2,Whole Property,2,Semi-Furnished,Yes,Yes,No,Yes,1.0,17000,Synthetic starter data
+593,Bhawarkua,PG,4300,167,0,Double,1,Fully Furnished,Yes,No,No,Yes,3.4,7000,Synthetic starter data
+594,Bhawarkua,Shared Room,3100,331,0,Double,1,Fully Furnished,Yes,Yes,No,No,1.8,5500,Synthetic starter data
+595,Vijay Nagar,Shared Room,4200,296,0,Double,1,Semi-Furnished,No,No,No,Yes,5.8,6500,Synthetic starter data
+596,Vijay Nagar,Shared Room,4500,394,0,Double,1,Fully Furnished,Yes,Yes,No,No,0.9,4000,Synthetic starter data
+597,Bengali Square,1 BHK,9700,626,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,2.5,11500,Synthetic starter data
+598,Vijay Nagar,Shared Room,3700,344,0,Triple,1,Semi-Furnished,No,Yes,No,Yes,1.9,4500,Synthetic starter data
+599,Bhawarkua,Single Room,6900,328,0,Single,1,Fully Furnished,No,No,No,No,3.2,5500,Synthetic starter data
+600,Bicholi Mardana,PG,5700,164,0,Single,1,Fully Furnished,No,Yes,No,No,4.5,3500,Synthetic starter data
+601,Rau,1 BHK,7600,746,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,1.7,11500,Synthetic starter data
+602,Geeta Bhawan,PG,4000,150,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,1.1,4500,Synthetic starter data
+603,Rau,Shared Room,2600,171,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,0.3,2500,Synthetic starter data
+604,Geeta Bhawan,Single Room,7000,185,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,2.5,7000,Synthetic starter data
+605,Bengali Square,PG,6700,170,0,Single,1,Fully Furnished,No,No,Yes,Yes,3.5,12000,Synthetic starter data
+606,Palasia,Single Room,6100,132,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,4.3,9000,Synthetic starter data
+607,Palasia,Single Room,8900,290,0,Single,1,Fully Furnished,Yes,No,No,Yes,3.3,11000,Synthetic starter data
+608,Bengali Square,PG,6200,189,0,Single,1,Semi-Furnished,Yes,No,No,Yes,0.5,4000,Synthetic starter data
+609,Sukhliya,PG,3400,179,0,Double,1,Fully Furnished,Yes,Yes,No,No,4.7,7000,Synthetic starter data
+610,Rau,1 BHK,6800,588,1,Whole Property,1,Unfurnished,Yes,No,No,No,0.7,8000,Synthetic starter data
+611,Geeta Bhawan,PG,4900,219,0,Double,1,Semi-Furnished,No,Yes,No,Yes,2.6,8500,Synthetic starter data
+612,LIG Colony,PG,3300,205,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,0.7,5000,Synthetic starter data
+613,Bengali Square,Single Room,7900,310,0,Single,1,Fully Furnished,No,No,No,No,2.2,11500,Synthetic starter data
+614,Bhawarkua,PG,5500,113,0,Single,1,Fully Furnished,No,Yes,Yes,No,4.6,3000,Synthetic starter data
+615,Bengali Square,Shared Room,3600,161,0,Double,1,Fully Furnished,Yes,Yes,No,No,1.5,5500,Synthetic starter data
+616,Sukhliya,Shared Room,3100,241,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.6,3000,Synthetic starter data
+617,LIG Colony,1 BHK,10000,789,1,Whole Property,1,Semi-Furnished,No,No,No,Yes,1.6,15000,Synthetic starter data
+618,Palasia,PG,5300,96,0,Double,1,Fully Furnished,No,No,No,No,0.5,7000,Synthetic starter data
+619,Scheme 54,PG,5700,155,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,1.2,7000,Synthetic starter data
+620,Palasia,2 BHK,19500,1346,2,Whole Property,2,Semi-Furnished,No,Yes,No,Yes,3.3,26500,Synthetic starter data
+621,Bhawarkua,2 BHK,15100,1366,2,Whole Property,2,Fully Furnished,Yes,Yes,No,Yes,3.7,9000,Synthetic starter data
+622,Bengali Square,Shared Room,3700,127,0,Double,1,Fully Furnished,Yes,No,No,Yes,1.2,4000,Synthetic starter data
+623,Bhawarkua,1 BHK,7400,478,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,3.4,11000,Synthetic starter data
+624,Scheme 54,2 BHK,13300,859,2,Whole Property,2,Unfurnished,No,Yes,No,Yes,2.1,19000,Synthetic starter data
+625,Bhawarkua,2 BHK,15200,1245,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,2.4,18500,Synthetic starter data
+626,Bicholi Mardana,1 BHK,8700,654,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,4.8,10000,Synthetic starter data
+627,Vijay Nagar,PG,4200,114,0,Triple,1,Fully Furnished,No,Yes,No,No,4.6,3500,Synthetic starter data
+628,Vijay Nagar,2 BHK,18400,1333,2,Whole Property,1,Unfurnished,Yes,No,No,No,1.2,21000,Synthetic starter data
+629,Geeta Bhawan,PG,2700,110,0,Triple,1,Fully Furnished,No,Yes,No,Yes,5.1,3500,Synthetic starter data
+630,LIG Colony,Single Room,5600,202,0,Single,1,Unfurnished,No,Yes,No,Yes,3.9,5000,Synthetic starter data
+631,LIG Colony,Shared Room,2800,397,0,Double,1,Semi-Furnished,No,Yes,No,Yes,4.4,3000,Synthetic starter data
+632,Bhawarkua,Single Room,4800,130,0,Single,1,Semi-Furnished,Yes,No,No,Yes,1.4,4000,Synthetic starter data
+633,Scheme 54,PG,3600,163,0,Double,1,Fully Furnished,Yes,No,No,Yes,2.3,3500,Synthetic starter data
+634,LIG Colony,2 BHK,13700,988,2,Whole Property,1,Unfurnished,Yes,Yes,No,No,3.3,15500,Synthetic starter data
+635,Sukhliya,1 BHK,5500,585,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,4.9,13500,Synthetic starter data
+636,Bicholi Mardana,PG,5000,199,0,Single,1,Fully Furnished,Yes,No,No,Yes,5.6,3000,Synthetic starter data
+637,Bhawarkua,Shared Room,2800,324,0,Double,1,Fully Furnished,Yes,Yes,No,No,5.2,4500,Synthetic starter data
+638,Vijay Nagar,Single Room,7200,176,0,Single,1,Fully Furnished,No,Yes,No,Yes,4.9,13000,Synthetic starter data
+639,Sukhliya,PG,3500,234,0,Double,1,Semi-Furnished,Yes,Yes,No,No,1.7,6500,Synthetic starter data
+640,LIG Colony,Shared Room,2800,296,0,Double,1,Semi-Furnished,No,Yes,No,Yes,5.7,4500,Synthetic starter data
+641,Rau,PG,2900,134,0,Triple,1,Fully Furnished,Yes,Yes,No,Yes,2.7,3500,Synthetic starter data
+642,Scheme 54,1 BHK,12000,762,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,2.2,15000,Synthetic starter data
+643,LIG Colony,PG,3400,205,0,Triple,1,Semi-Furnished,Yes,Yes,Yes,No,2.6,3500,Synthetic starter data
+644,Bhawarkua,Shared Room,3300,252,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,0.3,2500,Synthetic starter data
+645,Bhawarkua,PG,3600,243,0,Triple,1,Fully Furnished,Yes,No,Yes,Yes,2.3,5000,Synthetic starter data
+646,Bicholi Mardana,1 BHK,8200,617,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,0.3,4000,Synthetic starter data
+647,Scheme 54,PG,6000,198,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,4.1,8500,Synthetic starter data
+648,Bhawarkua,2 BHK,10700,838,2,Whole Property,2,Semi-Furnished,No,Yes,No,Yes,5.0,11500,Synthetic starter data
+649,Palasia,PG,4900,233,0,Double,1,Semi-Furnished,Yes,No,No,No,3.3,8000,Synthetic starter data
+650,Geeta Bhawan,PG,4900,116,0,Double,1,Semi-Furnished,Yes,Yes,Yes,No,1.6,8000,Synthetic starter data
+651,Vijay Nagar,2 BHK,20200,1095,2,Whole Property,1,Unfurnished,No,Yes,No,Yes,4.0,9500,Synthetic starter data
+652,Rau,PG,5400,141,0,Single,1,Semi-Furnished,Yes,Yes,Yes,Yes,5.1,7000,Synthetic starter data
+653,Bhawarkua,2 BHK,12500,953,2,Whole Property,2,Fully Furnished,No,Yes,No,Yes,0.5,11000,Synthetic starter data
+654,Sukhliya,2 BHK,12700,1048,2,Whole Property,1,Fully Furnished,No,Yes,No,Yes,4.2,15500,Synthetic starter data
+655,LIG Colony,PG,4000,241,0,Double,1,Fully Furnished,Yes,Yes,Yes,Yes,1.3,6500,Synthetic starter data
+656,Bengali Square,1 BHK,10000,535,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,1.0,17500,Synthetic starter data
+657,Vijay Nagar,1 BHK,13100,629,1,Whole Property,1,Fully Furnished,No,Yes,No,No,3.2,7500,Synthetic starter data
+658,Bhawarkua,Single Room,5700,325,0,Single,1,Fully Furnished,No,Yes,No,Yes,2.1,9000,Synthetic starter data
+659,Sukhliya,Single Room,5000,191,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,1.1,8000,Synthetic starter data
+660,Scheme 54,Single Room,7400,248,0,Single,1,Semi-Furnished,Yes,Yes,No,No,4.7,6000,Synthetic starter data
+661,Bengali Square,PG,4900,150,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.1,4000,Synthetic starter data
+662,Scheme 54,2 BHK,18200,1020,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,0.9,32000,Synthetic starter data
+663,Bhawarkua,PG,4200,120,0,Double,1,Fully Furnished,No,No,No,Yes,5.2,7000,Synthetic starter data
+664,Palasia,Shared Room,3200,399,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,3.5,2000,Synthetic starter data
+665,Scheme 54,Single Room,8000,286,0,Single,1,Fully Furnished,Yes,Yes,No,No,4.1,9000,Synthetic starter data
+666,Bhawarkua,PG,3600,115,0,Double,1,Fully Furnished,Yes,Yes,No,No,3.9,4500,Synthetic starter data
+667,Bhawarkua,2 BHK,10400,989,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,2.2,21000,Synthetic starter data
+668,LIG Colony,PG,4600,153,0,Single,1,Fully Furnished,Yes,No,Yes,Yes,4.6,8000,Synthetic starter data
+669,Bengali Square,PG,6500,250,0,Single,1,Fully Furnished,No,No,No,No,3.5,6500,Synthetic starter data
+670,Vijay Nagar,Shared Room,4400,250,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.0,5000,Synthetic starter data
+671,Bhawarkua,2 BHK,12700,1193,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,5.8,18000,Synthetic starter data
+672,Vijay Nagar,2 BHK,15700,1123,2,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,3.8,20000,Synthetic starter data
+673,Bhawarkua,1 BHK,9200,663,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,1.5,16500,Synthetic starter data
+674,Rau,PG,5000,141,0,Single,1,Fully Furnished,Yes,No,Yes,Yes,3.1,6000,Synthetic starter data
+675,Bhawarkua,Single Room,5400,249,0,Single,1,Semi-Furnished,No,Yes,No,Yes,0.4,4500,Synthetic starter data
+676,Sukhliya,1 BHK,7500,512,1,Whole Property,1,Unfurnished,Yes,Yes,No,No,3.0,7500,Synthetic starter data
+677,Bengali Square,Shared Room,3000,121,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,1.8,2500,Synthetic starter data
+678,Sukhliya,1 BHK,6500,503,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,2.2,4500,Synthetic starter data
+679,Bicholi Mardana,Single Room,5100,227,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,3.5,8500,Synthetic starter data
+680,Vijay Nagar,1 BHK,13400,778,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,2.4,11000,Synthetic starter data
+681,Sukhliya,2 BHK,10500,932,2,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,2.0,17000,Synthetic starter data
+682,Bhawarkua,PG,4400,158,0,Double,1,Fully Furnished,No,Yes,No,Yes,4.5,2500,Synthetic starter data
+683,LIG Colony,1 BHK,7800,578,1,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,5.4,7000,Synthetic starter data
+684,Vijay Nagar,Shared Room,3800,389,0,Double,1,Semi-Furnished,No,Yes,No,No,4.6,3000,Synthetic starter data
+685,Scheme 54,PG,4000,211,0,Triple,1,Fully Furnished,No,No,No,Yes,2.6,3500,Synthetic starter data
+686,Rau,2 BHK,8300,891,2,Whole Property,2,Unfurnished,No,No,No,No,4.3,9500,Synthetic starter data
+687,Rau,Single Room,3200,130,0,Single,1,Semi-Furnished,Yes,Yes,No,Yes,0.4,7500,Synthetic starter data
+688,Vijay Nagar,Single Room,6800,186,0,Single,1,Semi-Furnished,Yes,No,No,No,5.8,13500,Synthetic starter data
+689,Bicholi Mardana,1 BHK,8100,638,1,Whole Property,1,Fully Furnished,Yes,Yes,No,Yes,3.2,14500,Synthetic starter data
+690,Bengali Square,2 BHK,14500,870,2,Whole Property,2,Fully Furnished,No,Yes,No,Yes,3.8,26000,Synthetic starter data
+691,Scheme 54,2 BHK,20600,1252,2,Whole Property,2,Unfurnished,Yes,Yes,No,Yes,4.6,31000,Synthetic starter data
+692,Geeta Bhawan,2 BHK,14600,1136,2,Whole Property,1,Unfurnished,No,Yes,No,Yes,2.5,28000,Synthetic starter data
+693,Vijay Nagar,Single Room,8500,291,0,Single,1,Semi-Furnished,No,Yes,No,Yes,2.5,6500,Synthetic starter data
+694,Bicholi Mardana,PG,5000,213,0,Single,1,Fully Furnished,No,Yes,Yes,Yes,3.2,9500,Synthetic starter data
+695,Bengali Square,PG,4900,244,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,0.9,7000,Synthetic starter data
+696,LIG Colony,PG,3100,175,0,Triple,1,Fully Furnished,No,Yes,No,Yes,2.6,2500,Synthetic starter data
+697,Bicholi Mardana,Single Room,4400,158,0,Single,1,Semi-Furnished,No,Yes,No,Yes,1.0,6000,Synthetic starter data
+698,Sukhliya,Shared Room,3200,125,0,Double,1,Semi-Furnished,Yes,No,No,No,5.4,4500,Synthetic starter data
+699,Rau,PG,3400,171,0,Double,1,Semi-Furnished,Yes,No,No,No,4.7,6000,Synthetic starter data
+700,Rau,2 BHK,11300,909,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,No,5.8,11500,Synthetic starter data
+701,LIG Colony,Shared Room,2900,346,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.6,2000,Synthetic starter data
+702,Bengali Square,2 BHK,14300,946,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,0.4,16500,Synthetic starter data
+703,Rau,Single Room,4700,227,0,Single,1,Fully Furnished,No,Yes,No,Yes,3.1,7000,Synthetic starter data
+704,Scheme 54,1 BHK,13200,717,1,Whole Property,1,Unfurnished,No,Yes,No,Yes,0.5,17500,Synthetic starter data
+705,Scheme 54,Shared Room,4000,208,0,Double,1,Fully Furnished,No,No,No,Yes,4.7,3000,Synthetic starter data
+706,Bicholi Mardana,Shared Room,3000,376,0,Double,1,Fully Furnished,No,Yes,No,Yes,3.0,2000,Synthetic starter data
+707,Scheme 54,1 BHK,12700,765,1,Whole Property,1,Semi-Furnished,No,Yes,No,No,1.8,17500,Synthetic starter data
+708,Palasia,1 BHK,11800,613,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,3.5,17500,Synthetic starter data
+709,Scheme 54,Single Room,6200,153,0,Single,1,Semi-Furnished,Yes,No,No,Yes,2.4,5500,Synthetic starter data
+710,Bicholi Mardana,PG,2800,198,0,Triple,1,Fully Furnished,Yes,Yes,Yes,Yes,3.5,5500,Synthetic starter data
+711,Vijay Nagar,Single Room,8700,308,0,Single,1,Unfurnished,Yes,Yes,No,Yes,0.3,14500,Synthetic starter data
+712,LIG Colony,PG,3700,103,0,Double,1,Fully Furnished,No,Yes,No,No,2.5,4500,Synthetic starter data
+713,Vijay Nagar,PG,4200,165,0,Triple,1,Fully Furnished,Yes,Yes,Yes,No,1.8,7500,Synthetic starter data
+714,Geeta Bhawan,PG,4800,146,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,2.2,5500,Synthetic starter data
+715,LIG Colony,Single Room,4500,104,0,Single,1,Fully Furnished,Yes,Yes,No,No,5.4,6000,Synthetic starter data
+716,LIG Colony,PG,3100,240,0,Triple,1,Fully Furnished,No,Yes,No,Yes,1.6,3500,Synthetic starter data
+717,Geeta Bhawan,1 BHK,12900,676,1,Whole Property,1,Fully Furnished,No,Yes,No,Yes,1.8,18500,Synthetic starter data
+718,Rau,Single Room,4600,258,0,Single,1,Semi-Furnished,No,Yes,No,Yes,1.6,3000,Synthetic starter data
+719,Vijay Nagar,Single Room,7000,155,0,Single,1,Fully Furnished,No,Yes,No,Yes,0.7,10000,Synthetic starter data
+720,Sukhliya,Shared Room,2500,195,0,Triple,1,Semi-Furnished,Yes,Yes,No,Yes,1.4,2500,Synthetic starter data
+721,Bhawarkua,2 BHK,12600,924,2,Whole Property,2,Semi-Furnished,No,Yes,No,No,3.5,14500,Synthetic starter data
+722,Scheme 54,Shared Room,3000,263,0,Triple,1,Fully Furnished,No,Yes,No,Yes,1.7,5500,Synthetic starter data
+723,Bengali Square,PG,4000,166,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,3.6,5000,Synthetic starter data
+724,Palasia,2 BHK,17300,1206,2,Whole Property,2,Fully Furnished,Yes,No,No,No,3.4,24000,Synthetic starter data
+725,Geeta Bhawan,Single Room,6600,103,0,Single,1,Fully Furnished,Yes,Yes,No,Yes,3.2,7500,Synthetic starter data
+726,Rau,2 BHK,9700,850,2,Whole Property,1,Semi-Furnished,Yes,Yes,No,Yes,3.1,17500,Synthetic starter data
+727,Sukhliya,Single Room,5100,242,0,Single,1,Fully Furnished,Yes,Yes,No,No,4.6,6000,Synthetic starter data
+728,Rau,1 BHK,6500,541,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,0.6,3500,Synthetic starter data
+729,Bhawarkua,1 BHK,8800,792,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,5.8,5500,Synthetic starter data
+730,Geeta Bhawan,PG,4200,231,0,Double,1,Fully Furnished,Yes,No,Yes,Yes,0.9,5000,Synthetic starter data
+731,Bicholi Mardana,2 BHK,12400,1029,2,Whole Property,2,Semi-Furnished,No,Yes,No,Yes,1.1,17500,Synthetic starter data
+732,Bhawarkua,2 BHK,14400,1212,2,Whole Property,2,Semi-Furnished,No,No,No,No,6.0,12500,Synthetic starter data
+733,Scheme 54,Shared Room,3500,247,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,2.7,7500,Synthetic starter data
+734,LIG Colony,1 BHK,9900,811,1,Whole Property,1,Fully Furnished,No,Yes,No,No,2.8,9500,Synthetic starter data
+735,Palasia,Single Room,6500,192,0,Single,1,Semi-Furnished,No,No,No,Yes,1.6,6500,Synthetic starter data
+736,Bhawarkua,PG,3900,242,0,Double,1,Fully Furnished,No,Yes,No,Yes,2.4,6500,Synthetic starter data
+737,Bhawarkua,1 BHK,11300,860,1,Whole Property,1,Fully Furnished,No,No,No,Yes,3.3,11500,Synthetic starter data
+738,Bhawarkua,1 BHK,8700,683,1,Whole Property,1,Semi-Furnished,No,Yes,No,Yes,1.6,10500,Synthetic starter data
+739,Scheme 54,PG,5600,159,0,Double,1,Fully Furnished,No,Yes,No,No,5.2,8500,Synthetic starter data
+740,Bengali Square,PG,4200,203,0,Double,1,Semi-Furnished,Yes,Yes,No,Yes,3.0,7000,Synthetic starter data
+741,Palasia,PG,4500,152,0,Double,1,Fully Furnished,No,Yes,Yes,Yes,3.0,7000,Synthetic starter data
+742,Bicholi Mardana,PG,3100,194,0,Triple,1,Fully Furnished,Yes,No,Yes,Yes,1.0,4500,Synthetic starter data
+743,Vijay Nagar,Single Room,6600,140,0,Single,1,Fully Furnished,No,Yes,No,Yes,3.1,6500,Synthetic starter data
+744,Vijay Nagar,1 BHK,10300,497,1,Whole Property,1,Semi-Furnished,Yes,No,No,Yes,1.7,11500,Synthetic starter data
+745,Bhawarkua,Shared Room,3000,378,0,Double,1,Fully Furnished,Yes,Yes,No,Yes,5.0,6000,Synthetic starter data
+746,Scheme 54,Shared Room,4000,347,0,Double,1,Semi-Furnished,No,Yes,No,Yes,5.9,6000,Synthetic starter data
+747,Palasia,Single Room,7200,266,0,Single,1,Fully Furnished,No,Yes,No,No,5.9,12000,Synthetic starter data
+748,Bhawarkua,1 BHK,8100,549,1,Whole Property,1,Fully Furnished,No,Yes,No,No,2.4,13000,Synthetic starter data
+749,Vijay Nagar,Single Room,7700,108,0,Single,1,Semi-Furnished,Yes,No,No,Yes,2.6,3500,Synthetic starter data
+750,Vijay Nagar,Single Room,8700,286,0,Single,1,Fully Furnished,Yes,Yes,No,No,0.9,16000,Synthetic starter data
