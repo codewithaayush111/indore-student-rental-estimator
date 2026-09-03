@@ -33,50 +33,106 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    .main-title {
-        text-align: center;
-        font-size: 42px;
-        font-weight: 700;
-        margin-bottom: 5px;
+    /* ---------- ANIMATION ---------- */
+
+.hero {
+    height: 300px;
+    border-radius: 25px;
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0 30px 0;
+    background: linear-gradient(135deg, #eef7ff, #f8f0ff);
+    border: 1px solid rgba(255,255,255,0.8);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.10);
+}
+
+/* Student animation */
+.student {
+    position: absolute;
+    left: 18%;
+    bottom: 55px;
+    font-size: 65px;
+    animation: studentWalk 4s ease-in-out infinite;
+}
+
+/* House animation */
+.house {
+    position: absolute;
+    right: 18%;
+    bottom: 55px;
+    font-size: 90px;
+    animation: houseFloat 3s ease-in-out infinite;
+}
+
+/* Rent card animation */
+.rent-card {
+    position: absolute;
+    right: 32%;
+    top: 35px;
+    padding: 15px 25px;
+    background: white;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    font-weight: bold;
+    animation: rentPop 2.5s ease-in-out infinite;
+}
+
+/* Student movement */
+@keyframes studentWalk {
+    0% {
+        transform: translateX(-40px);
     }
 
-    .subtitle {
-        text-align: center;
-        font-size: 18px;
-        color: #666;
-        margin-bottom: 30px;
+    50% {
+        transform: translateX(120px);
     }
 
-    .section-title {
-        font-size: 25px;
-        font-weight: 650;
-        margin-top: 15px;
-        margin-bottom: 15px;
+    100% {
+        transform: translateX(-40px);
+    }
+}
+
+/* House floating */
+@keyframes houseFloat {
+    0%, 100% {
+        transform: translateY(0);
     }
 
-    .result-box {
-        padding: 20px;
-        border-radius: 12px;
-        border: 1px solid #ddd;
-        text-align: center;
-        margin-bottom: 15px;
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+/* Rent card floating */
+@keyframes rentPop {
+    0%, 100% {
+        transform: translateY(0) scale(1);
     }
 
-    .suggestion-box {
-        padding: 18px;
-        border-radius: 12px;
-        border: 1px solid #ddd;
-        margin-bottom: 12px;
+    50% {
+        transform: translateY(-12px) scale(1.05);
     }
-
-    .small-text {
-        color: #666;
-        font-size: 14px;
-    }
+}
 </style>
 """, unsafe_allow_html=True)
 
-# --------------------------------------------------
+# ---------- ANIMATED HERO ----------
+
+st.markdown("""
+<div class="hero">
+
+    <div class="student">🧑‍🎓</div>
+
+    <div class="house">🏠</div>
+
+    <div class="rent-card">
+        💰 Fair Rent
+        <br>
+        <span style="font-size:24px;">₹12,500 / month</span>
+    </div>
+
+</div>
+""", unsafe_allow_html=True)
 # HEADER
 # --------------------------------------------------
 
