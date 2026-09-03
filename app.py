@@ -565,109 +565,84 @@ st.divider()
 # INPUT SECTION
 # --------------------------------------------------
 
-st.markdown("""
-<div class="property-section">
+# PROPERTY DETAILS
 
-    <div class="property-heading">
-        🏡 Property Details
-    </div>
+with st.container(border=True):
+    st.markdown("### 🏡 Property Details")
+    st.caption("Enter the property information to get an accurate fair-rent estimate.")
 
-    <div class="property-subheading">
-        Tell us about the property to get an accurate fair-rent estimate.
-    </div>
+    col1, col2, col3 = st.columns(3)
 
-</div>
-""", unsafe_allow_html=True)
+    with col1:
+        location = st.selectbox(
+            "📍 Location",
+            [
+                "Vijay Nagar",
+                "Bhawarkua",
+                "Rau",
+                "Palasia",
+                "Bengali Square",
+                "Geeta Bhawan",
+                "Sukhliya",
+                "Scheme 54",
+                "LIG Colony",
+                "Bicholi Mardana"
+            ]
+        )
 
-st.write("")
+        property_type = st.selectbox(
+            "🏢 Property Type",
+            ["PG", "Single Room", "Shared Room", "1 BHK", "2 BHK"]
+        )
 
-col1, col2, col3 = st.columns(3)
+        area_sqft = st.number_input(
+            "📐 Area (sq.ft.)",
+            min_value=50,
+            max_value=3000,
+            value=600
+        )
 
-with col1:
+    with col2:
+        bhk = st.selectbox("🛏️ BHK", [0, 1, 2])
 
-    location = st.selectbox(
-        "📍 Location",
-        [
-            "Vijay Nagar",
-            "Bhawarkua",
-            "Rau",
-            "Palasia",
-            "Bengali Square",
-            "Geeta Bhawan",
-            "Sukhliya",
-            "Scheme 54",
-            "LIG Colony",
-            "Bicholi Mardana"
-        ]
-    )
+        sharing = st.selectbox(
+            "👥 Sharing",
+            ["Single", "Double", "Triple", "Whole Property"]
+        )
 
-    property_type = st.selectbox(
-        "🏢 Property Type",
-        [
-            "PG",
-            "Single Room",
-            "Shared Room",
-            "1 BHK",
-            "2 BHK"
-        ]
-    )
+        bathrooms = st.selectbox(
+            "🚿 Bathrooms",
+            [1, 2, 3]
+        )
 
-    area_sqft = st.number_input(
-        "📐 Area (sq.ft.)",
-        min_value=50,
-        max_value=3000,
-        value=600
-    )
+    with col3:
+        attached_bathroom = st.selectbox(
+            "🚿 Attached Bathroom",
+            ["Yes", "No"]
+        )
 
-with col2:
+        distance_from_college_km = st.number_input(
+            "🎓 Distance from College (km)",
+            min_value=0.1,
+            max_value=20.0,
+            value=1.5
+        )
 
-    bhk = st.selectbox(
-        "🛏️ BHK",
-        [0, 1, 2]
-    )
+        security_deposit = st.number_input(
+            "💰 Security Deposit (₹)",
+            min_value=0,
+            max_value=100000,
+            value=15000
+        )
 
-    sharing = st.selectbox(
-        "👥 Sharing",
-        [
-            "Single",
-            "Double",
-            "Triple",
-            "Whole Property"
-        ]
-    )
+    st.markdown("#### 🏷️ Listed Monthly Rent")
 
-    bathrooms = st.selectbox(
-        "🚿 Bathrooms",
-        [1, 2, 3]
-    )
-
-with col3:
-
-    attached_bathroom = st.selectbox(
-        "🚿 Attached Bathroom",
-        ["Yes", "No"]
-    )
-
-    distance_from_college_km = st.number_input(
-        "🎓 Distance from College (km)",
-        min_value=0.1,
-        max_value=20.0,
-        value=1.5
-    )
-
-    security_deposit = st.number_input(
-        "💰 Security Deposit (₹)",
-        min_value=0,
+    listed_rent = st.number_input(
+        "Enter current monthly rent (₹)",
+        min_value=1000,
         max_value=100000,
-        value=15000
+        value=12000
     )
-
-listed_rent = st.number_input(
-    "🏷️ Listed Monthly Rent (₹)",
-    min_value=1000,
-    max_value=100000,
-    value=12000
-)
 
 st.divider()
 
