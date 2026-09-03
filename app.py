@@ -33,12 +33,18 @@ st.set_page_config(
 
 
 # ---------- ANIMATED HERO ----------
+# ---------- PREMIUM ANIMATED HERO ----------
 
 components.html("""
 <!DOCTYPE html>
 <html>
 <head>
+
 <style>
+
+* {
+    box-sizing: border-box;
+}
 
 body {
     margin: 0;
@@ -47,149 +53,477 @@ body {
 }
 
 .hero {
-    height: 300px;
-    border-radius: 24px;
-    background: linear-gradient(135deg, #eaf6ff, #f5edff);
+    height: 380px;
+    width: 100%;
+    border-radius: 28px;
     position: relative;
     overflow: hidden;
-    box-shadow: 0 12px 35px rgba(0,0,0,0.12);
+
+    background:
+        radial-gradient(circle at 85% 20%, rgba(120,180,255,0.35), transparent 30%),
+        radial-gradient(circle at 15% 85%, rgba(180,120,255,0.25), transparent 30%),
+        linear-gradient(135deg, #eef7ff, #f6efff);
+
+    box-shadow:
+        0 25px 60px rgba(0,0,0,0.14);
+
+    border: 1px solid rgba(255,255,255,0.8);
 }
 
-/* Main title */
-.title {
+
+/* Soft moving glow */
+
+.glow {
     position: absolute;
-    top: 28px;
-    width: 100%;
-    text-align: center;
-    font-size: 30px;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+
+    background: rgba(120,170,255,0.18);
+
+    filter: blur(35px);
+
+    animation: glowMove 7s ease-in-out infinite;
+}
+
+.glow.one {
+    left: -60px;
+    top: -60px;
+}
+
+.glow.two {
+    right: -60px;
+    bottom: -80px;
+
+    background: rgba(190,130,255,0.18);
+
+    animation-delay: 2s;
+}
+
+
+/* LEFT CONTENT */
+
+.content {
+    position: absolute;
+    left: 7%;
+    top: 55px;
+    width: 45%;
+    z-index: 5;
+}
+
+.tag {
+    display: inline-block;
+
+    padding: 7px 15px;
+
+    border-radius: 30px;
+
+    background: rgba(255,255,255,0.65);
+
+    border: 1px solid rgba(255,255,255,0.9);
+
+    font-size: 13px;
     font-weight: bold;
-    color: #20242a;
+
+    color: #555;
+
+    letter-spacing: 1px;
+
+    animation: fadeUp 1s ease;
 }
 
-/* Student */
-.student {
+.title {
+    margin-top: 18px;
+
+    font-size: 42px;
+
+    line-height: 1.08;
+
+    font-weight: 800;
+
+    color: #1e2430;
+
+    animation: fadeUp 1.2s ease;
+}
+
+.highlight {
+    background: linear-gradient(90deg, #536dfe, #9c6cff);
+
+    -webkit-background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+}
+
+.description {
+    margin-top: 16px;
+
+    font-size: 16px;
+
+    line-height: 1.6;
+
+    color: #646b78;
+
+    max-width: 430px;
+
+    animation: fadeUp 1.4s ease;
+}
+
+
+/* BUTTON */
+
+.button {
+    display: inline-block;
+
+    margin-top: 22px;
+
+    padding: 13px 22px;
+
+    border-radius: 12px;
+
+    background: #202735;
+
+    color: white;
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+
+    animation: fadeUp 1.6s ease;
+}
+
+
+/* RIGHT 3D SCENE */
+
+.scene {
     position: absolute;
-    left: 18%;
-    bottom: 55px;
-    font-size: 65px;
-    animation: walk 4s ease-in-out infinite;
+
+    right: 7%;
+    top: 35px;
+
+    width: 42%;
+    height: 310px;
+
+    perspective: 1000px;
 }
 
-/* House */
-.house {
+
+/* Main apartment card */
+
+.apartment {
     position: absolute;
-    right: 18%;
-    bottom: 48px;
-    font-size: 90px;
-    animation: float 3s ease-in-out infinite;
+
+    right: 35px;
+    top: 35px;
+
+    width: 285px;
+    height: 210px;
+
+    border-radius: 25px;
+
+    background:
+        linear-gradient(145deg, #ffffff, #e9ecf5);
+
+    box-shadow:
+        25px 30px 50px rgba(50,60,90,0.22);
+
+    transform:
+        rotateY(-12deg)
+        rotateX(7deg);
+
+    animation: apartmentFloat 4s ease-in-out infinite;
+
+    border: 1px solid rgba(255,255,255,0.9);
 }
 
-/* Rent card */
-.card {
+
+/* Apartment roof */
+
+.roof {
     position: absolute;
-    top: 85px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: white;
-    padding: 13px 25px;
-    border-radius: 16px;
-    text-align: center;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-    animation: cardFloat 2.5s ease-in-out infinite;
+
+    left: 55px;
+    top: -30px;
+
+    width: 175px;
+    height: 80px;
+
+    background: linear-gradient(135deg, #667eea, #8e6cff);
+
+    clip-path: polygon(50% 0%, 100% 70%, 92% 70%, 50% 18%, 8% 70%, 0% 70%);
+
+    filter: drop-shadow(0 8px 10px rgba(70,70,150,0.25));
 }
 
-.card-title {
-    font-size: 15px;
-    color: #666;
+
+/* Windows */
+
+.window {
+    position: absolute;
+
+    width: 48px;
+    height: 55px;
+
+    background: linear-gradient(135deg, #9edcff, #5aa8df);
+
+    border-radius: 8px;
+
+    top: 65px;
+
+    box-shadow:
+        inset 0 0 0 4px rgba(255,255,255,0.45);
+
+    animation: windowGlow 3s ease-in-out infinite;
+}
+
+.window.left {
+    left: 40px;
+}
+
+.window.right {
+    right: 40px;
+}
+
+
+/* Door */
+
+.door {
+    position: absolute;
+
+    width: 48px;
+    height: 78px;
+
+    bottom: 0;
+    left: 118px;
+
+    border-radius: 8px 8px 0 0;
+
+    background: linear-gradient(135deg, #343b4a, #1e2430);
+}
+
+
+/* Floating rent card */
+
+.price-card {
+    position: absolute;
+
+    right: -20px;
+    bottom: 5px;
+
+    width: 175px;
+
+    padding: 16px;
+
+    border-radius: 18px;
+
+    background: rgba(255,255,255,0.92);
+
+    backdrop-filter: blur(12px);
+
+    box-shadow:
+        0 15px 35px rgba(30,40,70,0.20);
+
+    animation: priceFloat 3s ease-in-out infinite;
+}
+
+.price-label {
+    font-size: 12px;
+    color: #777;
 }
 
 .price {
+    margin-top: 4px;
+
     font-size: 25px;
-    font-weight: bold;
+
+    font-weight: 800;
+
     color: #222;
 }
 
-/* Walking animation */
-@keyframes walk {
-    0% {
-        transform: translateX(-20px);
+
+/* Location badge */
+
+.location {
+    position: absolute;
+
+    left: 15px;
+    bottom: 30px;
+
+    padding: 10px 16px;
+
+    border-radius: 14px;
+
+    background: rgba(255,255,255,0.75);
+
+    backdrop-filter: blur(10px);
+
+    font-size: 13px;
+
+    font-weight: bold;
+
+    color: #4d5360;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+
+    animation: priceFloat 3.5s ease-in-out infinite;
+}
+
+
+/* ANIMATIONS */
+
+@keyframes apartmentFloat {
+
+    0%,100% {
+        transform:
+            rotateY(-12deg)
+            rotateX(7deg)
+            translateY(0);
     }
 
     50% {
-        transform: translateX(120px);
-    }
-
-    100% {
-        transform: translateX(-20px);
+        transform:
+            rotateY(-12deg)
+            rotateX(7deg)
+            translateY(-12px);
     }
 }
 
-/* House floating */
-@keyframes float {
-    0%, 100% {
+
+@keyframes priceFloat {
+
+    0%,100% {
         transform: translateY(0);
     }
 
     50% {
-        transform: translateY(-8px);
+        transform: translateY(-10px);
     }
 }
 
-/* Card floating */
-@keyframes cardFloat {
-    0%, 100% {
-        transform: translateX(-50%) translateY(0);
+
+@keyframes glowMove {
+
+    0%,100% {
+        transform: translate(0,0);
     }
 
     50% {
-        transform: translateX(-50%) translateY(-8px);
+        transform: translate(50px,30px);
+    }
+}
+
+
+@keyframes windowGlow {
+
+    0%,100% {
+        opacity: 0.75;
+    }
+
+    50% {
+        opacity: 1;
+    }
+}
+
+
+@keyframes fadeUp {
+
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 
 </style>
+
 </head>
 
 <body>
 
 <div class="hero">
 
-    <div class="title">
-        🏠 Find Your Perfect Student Rental
+    <div class="glow one"></div>
+    <div class="glow two"></div>
+
+
+    <div class="content">
+
+        <div class="tag">
+            📍 INDORE • STUDENT RENTALS
+        </div>
+
+        <div class="title">
+            Find Your
+            <br>
+            <span class="highlight">Perfect Student Rental</span>
+        </div>
+
+        <div class="description">
+            AI-powered fair rent estimation to help students
+            find the right property at the right price.
+        </div>
+
+        <div class="button">
+            ✨ Smart Rent Estimation
+        </div>
+
     </div>
 
-    <div class="student">
-        🧑‍🎓
-    </div>
 
-    <div class="card">
-        <div class="card-title">💰 Estimated Fair Rent</div>
-        <div class="price">₹12,500 / month</div>
-    </div>
+    <div class="scene">
 
-    <div class="house">
-        🏠
+        <div class="apartment">
+
+            <div class="roof"></div>
+
+            <div class="window left"></div>
+
+            <div class="window right"></div>
+
+            <div class="door"></div>
+
+        </div>
+
+
+        <div class="price-card">
+
+            <div class="price-label">
+                💰 Estimated Fair Rent
+            </div>
+
+            <div class="price">
+                ₹12,500
+            </div>
+
+            <div class="price-label">
+                per month
+            </div>
+
+        </div>
+
+
+        <div class="location">
+            📍 Indore
+        </div>
+
     </div>
 
 </div>
 
 </body>
 </html>
-""", height=320)
+""", height=400)
 
 # HEADER
 # --------------------------------------------------
 
-st.markdown(
-    '<div class="main-title">🏠 Indore Student Rental Fair-Price Estimator</div>',
-    unsafe_allow_html=True
-)
 
-st.markdown(
-    '<div class="subtitle">'
-    'Find a fair rental price and discover alternative student-friendly properties in Indore.'
-    '</div>',
-    unsafe_allow_html=True
-)
 
 st.divider()
 
