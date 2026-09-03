@@ -439,7 +439,41 @@ body {
         transform: translateY(0);
     }
 }
+/* PREMIUM PROPERTY FORM */
 
+.property-section {
+    margin-top: 10px;
+    padding: 25px;
+    border-radius: 24px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.10);
+}
+
+.property-heading {
+    font-size: 26px;
+    font-weight: 750;
+    margin-bottom: 5px;
+}
+
+.property-subheading {
+    font-size: 14px;
+    opacity: 0.65;
+    margin-bottom: 22px;
+}
+
+.rent-highlight {
+    margin-top: 22px;
+    padding: 20px;
+    border-radius: 18px;
+    background: rgba(120,120,255,0.10);
+    border: 1px solid rgba(130,120,255,0.20);
+}
+
+div[data-baseweb="select"] > div,
+div[data-baseweb="input"] > div {
+    border-radius: 12px !important;
+}
 </style>
 
 </head>
@@ -531,10 +565,19 @@ st.divider()
 # INPUT SECTION
 # --------------------------------------------------
 
-st.markdown(
-    '<div class="section-title">📋 Property Details</div>',
-    unsafe_allow_html=True
-)
+st.markdown("""
+<div class="property-section">
+
+    <div class="property-heading">
+        🏡 Property Details
+    </div>
+
+    <div class="property-subheading">
+        Tell us about the property to get an accurate fair-rent estimate.
+    </div>
+
+</div>
+""", unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns(3)
 
