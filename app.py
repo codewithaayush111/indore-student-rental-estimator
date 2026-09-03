@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 import os
 import glob
-
+import streamlit.components.v1 as components
 # --------------------------------------------------
 # LOAD MODEL
 # --------------------------------------------------
@@ -31,56 +31,88 @@ st.set_page_config(
 # CUSTOM CSS
 # --------------------------------------------------
 
-st.markdown("""
+
+# ---------- ANIMATED HERO ----------
+
+components.html("""
+<!DOCTYPE html>
+<html>
+<head>
 <style>
-    /* ---------- ANIMATION ---------- */
+
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
 
 .hero {
     height: 300px;
-    border-radius: 25px;
+    border-radius: 24px;
+    background: linear-gradient(135deg, #eaf6ff, #f5edff);
     position: relative;
     overflow: hidden;
-    margin: 10px 0 30px 0;
-    background: linear-gradient(135deg, #eef7ff, #f8f0ff);
-    border: 1px solid rgba(255,255,255,0.8);
-    box-shadow: 0 15px 40px rgba(0,0,0,0.10);
+    box-shadow: 0 12px 35px rgba(0,0,0,0.12);
 }
 
-/* Student animation */
+/* Main title */
+.title {
+    position: absolute;
+    top: 28px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #20242a;
+}
+
+/* Student */
 .student {
     position: absolute;
     left: 18%;
     bottom: 55px;
     font-size: 65px;
-    animation: studentWalk 4s ease-in-out infinite;
+    animation: walk 4s ease-in-out infinite;
 }
 
-/* House animation */
+/* House */
 .house {
     position: absolute;
     right: 18%;
-    bottom: 55px;
+    bottom: 48px;
     font-size: 90px;
-    animation: houseFloat 3s ease-in-out infinite;
+    animation: float 3s ease-in-out infinite;
 }
 
-/* Rent card animation */
-.rent-card {
+/* Rent card */
+.card {
     position: absolute;
-    right: 32%;
-    top: 35px;
-    padding: 15px 25px;
+    top: 85px;
+    left: 50%;
+    transform: translateX(-50%);
     background: white;
-    border-radius: 18px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-    font-weight: bold;
-    animation: rentPop 2.5s ease-in-out infinite;
+    padding: 13px 25px;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    animation: cardFloat 2.5s ease-in-out infinite;
 }
 
-/* Student movement */
-@keyframes studentWalk {
+.card-title {
+    font-size: 15px;
+    color: #666;
+}
+
+.price {
+    font-size: 25px;
+    font-weight: bold;
+    color: #222;
+}
+
+/* Walking animation */
+@keyframes walk {
     0% {
-        transform: translateX(-40px);
+        transform: translateX(-20px);
     }
 
     50% {
@@ -88,51 +120,62 @@ st.markdown("""
     }
 
     100% {
-        transform: translateX(-40px);
+        transform: translateX(-20px);
     }
 }
 
 /* House floating */
-@keyframes houseFloat {
+@keyframes float {
     0%, 100% {
         transform: translateY(0);
     }
 
     50% {
-        transform: translateY(-10px);
+        transform: translateY(-8px);
     }
 }
 
-/* Rent card floating */
-@keyframes rentPop {
+/* Card floating */
+@keyframes cardFloat {
     0%, 100% {
-        transform: translateY(0) scale(1);
+        transform: translateX(-50%) translateY(0);
     }
 
     50% {
-        transform: translateY(-12px) scale(1.05);
+        transform: translateX(-50%) translateY(-8px);
     }
 }
+
 </style>
-""", unsafe_allow_html=True)
+</head>
 
-# ---------- ANIMATED HERO ----------
+<body>
 
-st.markdown("""
 <div class="hero">
 
-    <div class="student">🧑‍🎓</div>
+    <div class="title">
+        🏠 Find Your Perfect Student Rental
+    </div>
 
-    <div class="house">🏠</div>
+    <div class="student">
+        🧑‍🎓
+    </div>
 
-    <div class="rent-card">
-        💰 Fair Rent
-        <br>
-        <span style="font-size:24px;">₹12,500 / month</span>
+    <div class="card">
+        <div class="card-title">💰 Estimated Fair Rent</div>
+        <div class="price">₹12,500 / month</div>
+    </div>
+
+    <div class="house">
+        🏠
     </div>
 
 </div>
-""", unsafe_allow_html=True)
+
+</body>
+</html>
+""", height=320)
+
 # HEADER
 # --------------------------------------------------
 
