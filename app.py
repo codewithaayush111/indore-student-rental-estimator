@@ -457,3 +457,4 @@ st.markdown("""
     <div>Built for student rental analysis • Indore, Madhya Pradesh</div>
 </div>
 """, unsafe_allow_html=True)
+
