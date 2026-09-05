@@ -415,7 +415,68 @@ if st.button("✨  ESTIMATE FAIR RENT", use_container_width=True, type="primary"
                         </div>
                     </div>
                     ''')
-                st.markdown('<div class="cards">' + ''.join(cards) + '</div>', unsafe_allow_html=True)
+                for i, (_, row) in enumerate(similar.iterrows(), start=1):
+    loc = str(row.get("location", "Indore"))
+    ptype = str(row.get("property_type", "Property"))
+    rent = int(row["rent"])
+    area = row.get("area_sqft", "—")
+    bhk_val = row.get("bhk", "—")
+    share = row.get("sharing", "—")
+
+    c1, c2, c3 = st.columns(3)
+
+    with c1 if i % 3 == 1 else c2 if i % 3 == 2 else c3:
+        st.markdown(
+            f"""
+            <div style="
+                background:linear-gradient(145deg,#111528,#0b0e1b);
+                border:1px solid rgba(139,92,246,.25);
+                border-radius:20px;
+                padding:22px;
+                margin-bottom:20px;
+                min-height:210px;
+            ">
+                <div style="
+                    font-size:12px;
+                    color:#9b8cff;
+                    font-weight:700;
+                    letter-spacing:1px;
+                ">OPTION {i}</div>
+
+                <div style="
+                    font-size:22px;
+                    font-weight:800;
+                    color:white;
+                    margin:10px 0;
+                ">{ptype}</div>
+
+                <div style="
+                    color:#a7aec4;
+                    font-size:14px;
+                    line-height:1.9;
+                ">
+                    📍 {loc}<br>
+                    📐 {area} sq.ft.<br>
+                    🛏️ BHK {bhk_val}<br>
+                    👥 {share}
+                </div>
+
+                <div style="
+                    margin-top:15px;
+                    font-size:24px;
+                    font-weight:900;
+                    color:white;
+                ">₹{rent:,}
+                    <span style="
+                        font-size:13px;
+                        color:#858da5;
+                        font-weight:500;
+                    ">/ month</span>
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
         except Exception:
             st.warning("Alternative room suggestions could not be loaded.")
     else:
